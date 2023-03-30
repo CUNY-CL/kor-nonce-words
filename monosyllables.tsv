@@ -1,0 +1,605 @@
+onset	nucleus	coda	shape	jamo	hangul
+p	i	m	CVC	ㅂㅣᆷ	빔
+p	i	n	CVC	ㅂㅣᆫ	빈
+p	i	ŋ	CVC	ㅂㅣᆼ	빙
+p	i	t̚	CVC	ㅂㅣᆮ	빋
+p	i	k̚	CVC	ㅂㅣᆨ	빅
+p	a	m	CVC	ㅂㅏᆷ	밤
+p	a	n	CVC	ㅂㅏᆫ	반
+p	a	ŋ	CVC	ㅂㅏᆼ	방
+p	a	t̚	CVC	ㅂㅏᆮ	받
+p	a	k̚	CVC	ㅂㅏᆨ	박
+p	o	m	CVC	ㅂㅗᆷ	봄
+p	o	n	CVC	ㅂㅗᆫ	본
+p	o	ŋ	CVC	ㅂㅗᆼ	봉
+p	o	t̚	CVC	ㅂㅗᆮ	볻
+p	o	k̚	CVC	ㅂㅗᆨ	복
+p	u	m	CVC	ㅂㅜᆷ	붐
+p	u	n	CVC	ㅂㅜᆫ	분
+p	u	ŋ	CVC	ㅂㅜᆼ	붕
+p	u	t̚	CVC	ㅂㅜᆮ	붇
+p	u	k̚	CVC	ㅂㅜᆨ	북
+t	i	m	CVC	ㄷㅣᆷ	딤
+t	i	n	CVC	ㄷㅣᆫ	딘
+t	i	ŋ	CVC	ㄷㅣᆼ	딩
+t	i	p̚	CVC	ㄷㅣᆸ	딥
+t	i	k̚	CVC	ㄷㅣᆨ	딕
+t	a	m	CVC	ㄷㅏᆷ	담
+t	a	n	CVC	ㄷㅏᆫ	단
+t	a	ŋ	CVC	ㄷㅏᆼ	당
+t	a	p̚	CVC	ㄷㅏᆸ	답
+t	a	k̚	CVC	ㄷㅏᆨ	닥
+t	o	m	CVC	ㄷㅗᆷ	돔
+t	o	n	CVC	ㄷㅗᆫ	돈
+t	o	ŋ	CVC	ㄷㅗᆼ	동
+t	o	p̚	CVC	ㄷㅗᆸ	돕
+t	o	k̚	CVC	ㄷㅗᆨ	독
+t	u	m	CVC	ㄷㅜᆷ	둠
+t	u	n	CVC	ㄷㅜᆫ	둔
+t	u	ŋ	CVC	ㄷㅜᆼ	둥
+t	u	p̚	CVC	ㄷㅜᆸ	둡
+t	u	k̚	CVC	ㄷㅜᆨ	둑
+c	i	m	CVC	ㅈㅣᆷ	짐
+c	i	n	CVC	ㅈㅣᆫ	진
+c	i	ŋ	CVC	ㅈㅣᆼ	징
+c	i	p̚	CVC	ㅈㅣᆸ	집
+c	i	t̚	CVC	ㅈㅣᆮ	짇
+c	i	k̚	CVC	ㅈㅣᆨ	직
+c	a	m	CVC	ㅈㅏᆷ	잠
+c	a	n	CVC	ㅈㅏᆫ	잔
+c	a	ŋ	CVC	ㅈㅏᆼ	장
+c	a	p̚	CVC	ㅈㅏᆸ	잡
+c	a	t̚	CVC	ㅈㅏᆮ	잗
+c	a	k̚	CVC	ㅈㅏᆨ	작
+c	o	m	CVC	ㅈㅗᆷ	좀
+c	o	n	CVC	ㅈㅗᆫ	존
+c	o	ŋ	CVC	ㅈㅗᆼ	종
+c	o	p̚	CVC	ㅈㅗᆸ	좁
+c	o	t̚	CVC	ㅈㅗᆮ	졷
+c	o	k̚	CVC	ㅈㅗᆨ	족
+c	u	m	CVC	ㅈㅜᆷ	줌
+c	u	n	CVC	ㅈㅜᆫ	준
+c	u	ŋ	CVC	ㅈㅜᆼ	중
+c	u	p̚	CVC	ㅈㅜᆸ	줍
+c	u	t̚	CVC	ㅈㅜᆮ	줃
+c	u	k̚	CVC	ㅈㅜᆨ	죽
+k	i	m	CVC	ㄱㅣᆷ	김
+k	i	n	CVC	ㄱㅣᆫ	긴
+k	i	ŋ	CVC	ㄱㅣᆼ	깅
+k	i	p̚	CVC	ㄱㅣᆸ	깁
+k	i	t̚	CVC	ㄱㅣᆮ	긷
+k	a	m	CVC	ㄱㅏᆷ	감
+k	a	n	CVC	ㄱㅏᆫ	간
+k	a	ŋ	CVC	ㄱㅏᆼ	강
+k	a	p̚	CVC	ㄱㅏᆸ	갑
+k	a	t̚	CVC	ㄱㅏᆮ	갇
+k	o	m	CVC	ㄱㅗᆷ	곰
+k	o	n	CVC	ㄱㅗᆫ	곤
+k	o	ŋ	CVC	ㄱㅗᆼ	공
+k	o	p̚	CVC	ㄱㅗᆸ	곱
+k	o	t̚	CVC	ㄱㅗᆮ	곧
+k	u	m	CVC	ㄱㅜᆷ	굼
+k	u	n	CVC	ㄱㅜᆫ	군
+k	u	ŋ	CVC	ㄱㅜᆼ	궁
+k	u	p̚	CVC	ㄱㅜᆸ	굽
+k	u	t̚	CVC	ㄱㅜᆮ	굳
+pʰ	i	m	CVC	ㅍㅣᆷ	핌
+pʰ	i	n	CVC	ㅍㅣᆫ	핀
+pʰ	i	ŋ	CVC	ㅍㅣᆼ	핑
+pʰ	i	t̚	CVC	ㅍㅣᆮ	핃
+pʰ	i	k̚	CVC	ㅍㅣᆨ	픽
+pʰ	a	m	CVC	ㅍㅏᆷ	팜
+pʰ	a	n	CVC	ㅍㅏᆫ	판
+pʰ	a	ŋ	CVC	ㅍㅏᆼ	팡
+pʰ	a	t̚	CVC	ㅍㅏᆮ	팓
+pʰ	a	k̚	CVC	ㅍㅏᆨ	팍
+pʰ	o	m	CVC	ㅍㅗᆷ	폼
+pʰ	o	n	CVC	ㅍㅗᆫ	폰
+pʰ	o	ŋ	CVC	ㅍㅗᆼ	퐁
+pʰ	o	t̚	CVC	ㅍㅗᆮ	폳
+pʰ	o	k̚	CVC	ㅍㅗᆨ	폭
+pʰ	u	m	CVC	ㅍㅜᆷ	품
+pʰ	u	n	CVC	ㅍㅜᆫ	푼
+pʰ	u	ŋ	CVC	ㅍㅜᆼ	풍
+pʰ	u	t̚	CVC	ㅍㅜᆮ	푿
+pʰ	u	k̚	CVC	ㅍㅜᆨ	푹
+tʰ	i	m	CVC	ㅌㅣᆷ	팀
+tʰ	i	n	CVC	ㅌㅣᆫ	틴
+tʰ	i	ŋ	CVC	ㅌㅣᆼ	팅
+tʰ	i	p̚	CVC	ㅌㅣᆸ	팁
+tʰ	i	k̚	CVC	ㅌㅣᆨ	틱
+tʰ	a	m	CVC	ㅌㅏᆷ	탐
+tʰ	a	n	CVC	ㅌㅏᆫ	탄
+tʰ	a	ŋ	CVC	ㅌㅏᆼ	탕
+tʰ	a	p̚	CVC	ㅌㅏᆸ	탑
+tʰ	a	k̚	CVC	ㅌㅏᆨ	탁
+tʰ	o	m	CVC	ㅌㅗᆷ	톰
+tʰ	o	n	CVC	ㅌㅗᆫ	톤
+tʰ	o	ŋ	CVC	ㅌㅗᆼ	통
+tʰ	o	p̚	CVC	ㅌㅗᆸ	톱
+tʰ	o	k̚	CVC	ㅌㅗᆨ	톡
+tʰ	u	m	CVC	ㅌㅜᆷ	툼
+tʰ	u	n	CVC	ㅌㅜᆫ	툰
+tʰ	u	ŋ	CVC	ㅌㅜᆼ	퉁
+tʰ	u	p̚	CVC	ㅌㅜᆸ	툽
+tʰ	u	k̚	CVC	ㅌㅜᆨ	툭
+cʰ	i	m	CVC	ㅊㅣᆷ	침
+cʰ	i	n	CVC	ㅊㅣᆫ	친
+cʰ	i	ŋ	CVC	ㅊㅣᆼ	칭
+cʰ	i	p̚	CVC	ㅊㅣᆸ	칩
+cʰ	i	t̚	CVC	ㅊㅣᆮ	칟
+cʰ	i	k̚	CVC	ㅊㅣᆨ	칙
+cʰ	a	m	CVC	ㅊㅏᆷ	참
+cʰ	a	n	CVC	ㅊㅏᆫ	찬
+cʰ	a	ŋ	CVC	ㅊㅏᆼ	창
+cʰ	a	p̚	CVC	ㅊㅏᆸ	찹
+cʰ	a	t̚	CVC	ㅊㅏᆮ	찯
+cʰ	a	k̚	CVC	ㅊㅏᆨ	착
+cʰ	o	m	CVC	ㅊㅗᆷ	촘
+cʰ	o	n	CVC	ㅊㅗᆫ	촌
+cʰ	o	ŋ	CVC	ㅊㅗᆼ	총
+cʰ	o	p̚	CVC	ㅊㅗᆸ	촙
+cʰ	o	t̚	CVC	ㅊㅗᆮ	촏
+cʰ	o	k̚	CVC	ㅊㅗᆨ	촉
+cʰ	u	m	CVC	ㅊㅜᆷ	춤
+cʰ	u	n	CVC	ㅊㅜᆫ	춘
+cʰ	u	ŋ	CVC	ㅊㅜᆼ	충
+cʰ	u	p̚	CVC	ㅊㅜᆸ	춥
+cʰ	u	t̚	CVC	ㅊㅜᆮ	춛
+cʰ	u	k̚	CVC	ㅊㅜᆨ	축
+kʰ	i	m	CVC	ㅋㅣᆷ	킴
+kʰ	i	n	CVC	ㅋㅣᆫ	킨
+kʰ	i	ŋ	CVC	ㅋㅣᆼ	킹
+kʰ	i	p̚	CVC	ㅋㅣᆸ	킵
+kʰ	i	t̚	CVC	ㅋㅣᆮ	킫
+kʰ	a	m	CVC	ㅋㅏᆷ	캄
+kʰ	a	n	CVC	ㅋㅏᆫ	칸
+kʰ	a	ŋ	CVC	ㅋㅏᆼ	캉
+kʰ	a	p̚	CVC	ㅋㅏᆸ	캅
+kʰ	a	t̚	CVC	ㅋㅏᆮ	칻
+kʰ	o	m	CVC	ㅋㅗᆷ	콤
+kʰ	o	n	CVC	ㅋㅗᆫ	콘
+kʰ	o	ŋ	CVC	ㅋㅗᆼ	콩
+kʰ	o	p̚	CVC	ㅋㅗᆸ	콥
+kʰ	o	t̚	CVC	ㅋㅗᆮ	콛
+kʰ	u	m	CVC	ㅋㅜᆷ	쿰
+kʰ	u	n	CVC	ㅋㅜᆫ	쿤
+kʰ	u	ŋ	CVC	ㅋㅜᆼ	쿵
+kʰ	u	p̚	CVC	ㅋㅜᆸ	쿱
+kʰ	u	t̚	CVC	ㅋㅜᆮ	쿧
+s	i	m	CVC	ᄉㅣᆷ	심
+s	i	n	CVC	ᄉㅣᆫ	신
+s	i	ŋ	CVC	ᄉㅣᆼ	싱
+s	i	p̚	CVC	ᄉㅣᆸ	십
+s	i	t̚	CVC	ᄉㅣᆮ	싣
+s	i	k̚	CVC	ᄉㅣᆨ	식
+s	a	m	CVC	ᄉㅏᆷ	삼
+s	a	n	CVC	ᄉㅏᆫ	산
+s	a	ŋ	CVC	ᄉㅏᆼ	상
+s	a	p̚	CVC	ᄉㅏᆸ	삽
+s	a	t̚	CVC	ᄉㅏᆮ	삳
+s	a	k̚	CVC	ᄉㅏᆨ	삭
+s	o	m	CVC	ᄉㅗᆷ	솜
+s	o	n	CVC	ᄉㅗᆫ	손
+s	o	ŋ	CVC	ᄉㅗᆼ	송
+s	o	p̚	CVC	ᄉㅗᆸ	솝
+s	o	t̚	CVC	ᄉㅗᆮ	솓
+s	o	k̚	CVC	ᄉㅗᆨ	속
+s	u	m	CVC	ᄉㅜᆷ	숨
+s	u	n	CVC	ᄉㅜᆫ	순
+s	u	ŋ	CVC	ᄉㅜᆼ	숭
+s	u	p̚	CVC	ᄉㅜᆸ	숩
+s	u	t̚	CVC	ᄉㅜᆮ	숟
+s	u	k̚	CVC	ᄉㅜᆨ	숙
+m	i	n	CVC	ᄆㅣᆫ	민
+m	i	ŋ	CVC	ᄆㅣᆼ	밍
+m	i	p̚	CVC	ᄆㅣᆸ	밉
+m	i	t̚	CVC	ᄆㅣᆮ	믿
+m	i	k̚	CVC	ᄆㅣᆨ	믹
+m	a	n	CVC	ᄆㅏᆫ	만
+m	a	ŋ	CVC	ᄆㅏᆼ	망
+m	a	p̚	CVC	ᄆㅏᆸ	맙
+m	a	t̚	CVC	ᄆㅏᆮ	맏
+m	a	k̚	CVC	ᄆㅏᆨ	막
+m	o	n	CVC	ᄆㅗᆫ	몬
+m	o	ŋ	CVC	ᄆㅗᆼ	몽
+m	o	p̚	CVC	ᄆㅗᆸ	몹
+m	o	t̚	CVC	ᄆㅗᆮ	몯
+m	o	k̚	CVC	ᄆㅗᆨ	목
+m	u	n	CVC	ᄆㅜᆫ	문
+m	u	ŋ	CVC	ᄆㅜᆼ	뭉
+m	u	p̚	CVC	ᄆㅜᆸ	뭅
+m	u	t̚	CVC	ᄆㅜᆮ	묻
+m	u	k̚	CVC	ᄆㅜᆨ	묵
+n	i	m	CVC	ᄂㅣᆷ	님
+n	i	ŋ	CVC	ᄂㅣᆼ	닝
+n	i	p̚	CVC	ᄂㅣᆸ	닙
+n	i	t̚	CVC	ᄂㅣᆮ	닏
+n	i	k̚	CVC	ᄂㅣᆨ	닉
+n	a	m	CVC	ᄂㅏᆷ	남
+n	a	ŋ	CVC	ᄂㅏᆼ	낭
+n	a	p̚	CVC	ᄂㅏᆸ	납
+n	a	t̚	CVC	ᄂㅏᆮ	낟
+n	a	k̚	CVC	ᄂㅏᆨ	낙
+n	o	m	CVC	ᄂㅗᆷ	놈
+n	o	ŋ	CVC	ᄂㅗᆼ	농
+n	o	p̚	CVC	ᄂㅗᆸ	놉
+n	o	t̚	CVC	ᄂㅗᆮ	녿
+n	o	k̚	CVC	ᄂㅗᆨ	녹
+n	u	m	CVC	ᄂㅜᆷ	눔
+n	u	ŋ	CVC	ᄂㅜᆼ	눙
+n	u	p̚	CVC	ᄂㅜᆸ	눕
+n	u	t̚	CVC	ᄂㅜᆮ	눋
+n	u	k̚	CVC	ᄂㅜᆨ	눅
+p	wi	m	CwVC	ㅂㅟᆷ	뷤
+p	wi	n	CwVC	ㅂㅟᆫ	뷘
+p	wi	ŋ	CwVC	ㅂㅟᆼ	뷩
+p	wi	t̚	CwVC	ㅂㅟᆮ	뷛
+p	wi	k̚	CwVC	ㅂㅟᆨ	뷕
+p	wa	m	CwVC	ㅂㅘᆷ	봠
+p	wa	n	CwVC	ㅂㅘᆫ	봔
+p	wa	ŋ	CwVC	ㅂㅘᆼ	봥
+p	wa	t̚	CwVC	ㅂㅘᆮ	봗
+p	wa	k̚	CwVC	ㅂㅘᆨ	봑
+t	wi	m	CwVC	ㄷㅟᆷ	뒴
+t	wi	n	CwVC	ㄷㅟᆫ	뒨
+t	wi	ŋ	CwVC	ㄷㅟᆼ	뒹
+t	wi	p̚	CwVC	ㄷㅟᆸ	뒵
+t	wi	k̚	CwVC	ㄷㅟᆨ	뒥
+t	wa	m	CwVC	ㄷㅘᆷ	돰
+t	wa	n	CwVC	ㄷㅘᆫ	돤
+t	wa	ŋ	CwVC	ㄷㅘᆼ	돵
+t	wa	p̚	CwVC	ㄷㅘᆸ	돱
+t	wa	k̚	CwVC	ㄷㅘᆨ	돡
+c	wi	m	CwVC	ㅈㅟᆷ	쥠
+c	wi	n	CwVC	ㅈㅟᆫ	쥔
+c	wi	ŋ	CwVC	ㅈㅟᆼ	쥥
+c	wi	p̚	CwVC	ㅈㅟᆸ	쥡
+c	wi	t̚	CwVC	ㅈㅟᆮ	쥗
+c	wi	k̚	CwVC	ㅈㅟᆨ	쥑
+c	wa	m	CwVC	ㅈㅘᆷ	좜
+c	wa	n	CwVC	ㅈㅘᆫ	좐
+c	wa	ŋ	CwVC	ㅈㅘᆼ	좡
+c	wa	p̚	CwVC	ㅈㅘᆸ	좝
+c	wa	t̚	CwVC	ㅈㅘᆮ	좓
+c	wa	k̚	CwVC	ㅈㅘᆨ	좍
+k	wi	m	CwVC	ㄱㅟᆷ	귐
+k	wi	n	CwVC	ㄱㅟᆫ	귄
+k	wi	ŋ	CwVC	ㄱㅟᆼ	귕
+k	wi	p̚	CwVC	ㄱㅟᆸ	귑
+k	wi	t̚	CwVC	ㄱㅟᆮ	귇
+k	wa	m	CwVC	ㄱㅘᆷ	괌
+k	wa	n	CwVC	ㄱㅘᆫ	관
+k	wa	ŋ	CwVC	ㄱㅘᆼ	광
+k	wa	p̚	CwVC	ㄱㅘᆸ	괍
+k	wa	t̚	CwVC	ㄱㅘᆮ	괃
+pʰ	wi	m	CwVC	ㅍㅟᆷ	퓜
+pʰ	wi	n	CwVC	ㅍㅟᆫ	퓐
+pʰ	wi	ŋ	CwVC	ㅍㅟᆼ	퓡
+pʰ	wi	t̚	CwVC	ㅍㅟᆮ	퓓
+pʰ	wi	k̚	CwVC	ㅍㅟᆨ	퓍
+pʰ	wa	m	CwVC	ㅍㅘᆷ	퐘
+pʰ	wa	n	CwVC	ㅍㅘᆫ	퐌
+pʰ	wa	ŋ	CwVC	ㅍㅘᆼ	퐝
+pʰ	wa	t̚	CwVC	ㅍㅘᆮ	퐏
+pʰ	wa	k̚	CwVC	ㅍㅘᆨ	퐉
+tʰ	wi	m	CwVC	ㅌㅟᆷ	튐
+tʰ	wi	n	CwVC	ㅌㅟᆫ	튄
+tʰ	wi	ŋ	CwVC	ㅌㅟᆼ	튕
+tʰ	wi	p̚	CwVC	ㅌㅟᆸ	튑
+tʰ	wi	k̚	CwVC	ㅌㅟᆨ	튁
+tʰ	wa	m	CwVC	ㅌㅘᆷ	퇌
+tʰ	wa	n	CwVC	ㅌㅘᆫ	퇀
+tʰ	wa	ŋ	CwVC	ㅌㅘᆼ	퇑
+tʰ	wa	p̚	CwVC	ㅌㅘᆸ	퇍
+tʰ	wa	k̚	CwVC	ㅌㅘᆨ	톽
+cʰ	wi	m	CwVC	ㅊㅟᆷ	췸
+cʰ	wi	n	CwVC	ㅊㅟᆫ	췬
+cʰ	wi	ŋ	CwVC	ㅊㅟᆼ	췽
+cʰ	wi	p̚	CwVC	ㅊㅟᆸ	췹
+cʰ	wi	t̚	CwVC	ㅊㅟᆮ	췯
+cʰ	wi	k̚	CwVC	ㅊㅟᆨ	췩
+cʰ	wa	m	CwVC	ㅊㅘᆷ	촴
+cʰ	wa	n	CwVC	ㅊㅘᆫ	촨
+cʰ	wa	ŋ	CwVC	ㅊㅘᆼ	촹
+cʰ	wa	p̚	CwVC	ㅊㅘᆸ	촵
+cʰ	wa	t̚	CwVC	ㅊㅘᆮ	촫
+cʰ	wa	k̚	CwVC	ㅊㅘᆨ	촥
+kʰ	wi	m	CwVC	ㅋㅟᆷ	큄
+kʰ	wi	n	CwVC	ㅋㅟᆫ	퀸
+kʰ	wi	ŋ	CwVC	ㅋㅟᆼ	큉
+kʰ	wi	p̚	CwVC	ㅋㅟᆸ	큅
+kʰ	wi	t̚	CwVC	ㅋㅟᆮ	퀻
+kʰ	wa	m	CwVC	ㅋㅘᆷ	쾀
+kʰ	wa	n	CwVC	ㅋㅘᆫ	콴
+kʰ	wa	ŋ	CwVC	ㅋㅘᆼ	쾅
+kʰ	wa	p̚	CwVC	ㅋㅘᆸ	쾁
+kʰ	wa	t̚	CwVC	ㅋㅘᆮ	콷
+mp	i	t̚	NCVC	ᄆㅂㅣᆮ	
+mp	i	k̚	NCVC	ᄆㅂㅣᆨ	
+mp	a	t̚	NCVC	ᄆㅂㅏᆮ	
+mp	a	k̚	NCVC	ᄆㅂㅏᆨ	
+mp	o	t̚	NCVC	ᄆㅂㅗᆮ	
+mp	o	k̚	NCVC	ᄆㅂㅗᆨ	
+mp	u	t̚	NCVC	ᄆㅂㅜᆮ	
+mp	u	k̚	NCVC	ᄆㅂㅜᆨ	
+np	i	t̚	NCVC	ᄂㅂㅣᆮ	
+np	i	k̚	NCVC	ᄂㅂㅣᆨ	
+np	a	t̚	NCVC	ᄂㅂㅏᆮ	
+np	a	k̚	NCVC	ᄂㅂㅏᆨ	
+np	o	t̚	NCVC	ᄂㅂㅗᆮ	
+np	o	k̚	NCVC	ᄂㅂㅗᆨ	
+np	u	t̚	NCVC	ᄂㅂㅜᆮ	
+np	u	k̚	NCVC	ᄂㅂㅜᆨ	
+mt	i	p̚	NCVC	ᄆㄷㅣᆸ	
+mt	i	k̚	NCVC	ᄆㄷㅣᆨ	
+mt	a	p̚	NCVC	ᄆㄷㅏᆸ	
+mt	a	k̚	NCVC	ᄆㄷㅏᆨ	
+mt	o	p̚	NCVC	ᄆㄷㅗᆸ	
+mt	o	k̚	NCVC	ᄆㄷㅗᆨ	
+mt	u	p̚	NCVC	ᄆㄷㅜᆸ	
+mt	u	k̚	NCVC	ᄆㄷㅜᆨ	
+nt	i	p̚	NCVC	ᄂㄷㅣᆸ	
+nt	i	k̚	NCVC	ᄂㄷㅣᆨ	
+nt	a	p̚	NCVC	ᄂㄷㅏᆸ	
+nt	a	k̚	NCVC	ᄂㄷㅏᆨ	
+nt	o	p̚	NCVC	ᄂㄷㅗᆸ	
+nt	o	k̚	NCVC	ᄂㄷㅗᆨ	
+nt	u	p̚	NCVC	ᄂㄷㅜᆸ	
+nt	u	k̚	NCVC	ᄂㄷㅜᆨ	
+mc	i	p̚	NCVC	ᄆㅈㅣᆸ	
+mc	i	t̚	NCVC	ᄆㅈㅣᆮ	
+mc	i	k̚	NCVC	ᄆㅈㅣᆨ	
+mc	a	p̚	NCVC	ᄆㅈㅏᆸ	
+mc	a	t̚	NCVC	ᄆㅈㅏᆮ	
+mc	a	k̚	NCVC	ᄆㅈㅏᆨ	
+mc	o	p̚	NCVC	ᄆㅈㅗᆸ	
+mc	o	t̚	NCVC	ᄆㅈㅗᆮ	
+mc	o	k̚	NCVC	ᄆㅈㅗᆨ	
+mc	u	p̚	NCVC	ᄆㅈㅜᆸ	
+mc	u	t̚	NCVC	ᄆㅈㅜᆮ	
+mc	u	k̚	NCVC	ᄆㅈㅜᆨ	
+nc	i	p̚	NCVC	ᄂㅈㅣᆸ	
+nc	i	t̚	NCVC	ᄂㅈㅣᆮ	
+nc	i	k̚	NCVC	ᄂㅈㅣᆨ	
+nc	a	p̚	NCVC	ᄂㅈㅏᆸ	
+nc	a	t̚	NCVC	ᄂㅈㅏᆮ	
+nc	a	k̚	NCVC	ᄂㅈㅏᆨ	
+nc	o	p̚	NCVC	ᄂㅈㅗᆸ	
+nc	o	t̚	NCVC	ᄂㅈㅗᆮ	
+nc	o	k̚	NCVC	ᄂㅈㅗᆨ	
+nc	u	p̚	NCVC	ᄂㅈㅜᆸ	
+nc	u	t̚	NCVC	ᄂㅈㅜᆮ	
+nc	u	k̚	NCVC	ᄂㅈㅜᆨ	
+mk	i	p̚	NCVC	ᄆㄱㅣᆸ	
+mk	i	t̚	NCVC	ᄆㄱㅣᆮ	
+mk	a	p̚	NCVC	ᄆㄱㅏᆸ	
+mk	a	t̚	NCVC	ᄆㄱㅏᆮ	
+mk	o	p̚	NCVC	ᄆㄱㅗᆸ	
+mk	o	t̚	NCVC	ᄆㄱㅗᆮ	
+mk	u	p̚	NCVC	ᄆㄱㅜᆸ	
+mk	u	t̚	NCVC	ᄆㄱㅜᆮ	
+nk	i	p̚	NCVC	ᄂㄱㅣᆸ	
+nk	i	t̚	NCVC	ᄂㄱㅣᆮ	
+nk	a	p̚	NCVC	ᄂㄱㅏᆸ	
+nk	a	t̚	NCVC	ᄂㄱㅏᆮ	
+nk	o	p̚	NCVC	ᄂㄱㅗᆸ	
+nk	o	t̚	NCVC	ᄂㄱㅗᆮ	
+nk	u	p̚	NCVC	ᄂㄱㅜᆸ	
+nk	u	t̚	NCVC	ᄂㄱㅜᆮ	
+mpʰ	i	t̚	NCVC	ᄆㅍㅣᆮ	
+mpʰ	i	k̚	NCVC	ᄆㅍㅣᆨ	
+mpʰ	a	t̚	NCVC	ᄆㅍㅏᆮ	
+mpʰ	a	k̚	NCVC	ᄆㅍㅏᆨ	
+mpʰ	o	t̚	NCVC	ᄆㅍㅗᆮ	
+mpʰ	o	k̚	NCVC	ᄆㅍㅗᆨ	
+mpʰ	u	t̚	NCVC	ᄆㅍㅜᆮ	
+mpʰ	u	k̚	NCVC	ᄆㅍㅜᆨ	
+npʰ	i	t̚	NCVC	ᄂㅍㅣᆮ	
+npʰ	i	k̚	NCVC	ᄂㅍㅣᆨ	
+npʰ	a	t̚	NCVC	ᄂㅍㅏᆮ	
+npʰ	a	k̚	NCVC	ᄂㅍㅏᆨ	
+npʰ	o	t̚	NCVC	ᄂㅍㅗᆮ	
+npʰ	o	k̚	NCVC	ᄂㅍㅗᆨ	
+npʰ	u	t̚	NCVC	ᄂㅍㅜᆮ	
+npʰ	u	k̚	NCVC	ᄂㅍㅜᆨ	
+mtʰ	i	p̚	NCVC	ᄆㅌㅣᆸ	
+mtʰ	i	k̚	NCVC	ᄆㅌㅣᆨ	
+mtʰ	a	p̚	NCVC	ᄆㅌㅏᆸ	
+mtʰ	a	k̚	NCVC	ᄆㅌㅏᆨ	
+mtʰ	o	p̚	NCVC	ᄆㅌㅗᆸ	
+mtʰ	o	k̚	NCVC	ᄆㅌㅗᆨ	
+mtʰ	u	p̚	NCVC	ᄆㅌㅜᆸ	
+mtʰ	u	k̚	NCVC	ᄆㅌㅜᆨ	
+ntʰ	i	p̚	NCVC	ᄂㅌㅣᆸ	
+ntʰ	i	k̚	NCVC	ᄂㅌㅣᆨ	
+ntʰ	a	p̚	NCVC	ᄂㅌㅏᆸ	
+ntʰ	a	k̚	NCVC	ᄂㅌㅏᆨ	
+ntʰ	o	p̚	NCVC	ᄂㅌㅗᆸ	
+ntʰ	o	k̚	NCVC	ᄂㅌㅗᆨ	
+ntʰ	u	p̚	NCVC	ᄂㅌㅜᆸ	
+ntʰ	u	k̚	NCVC	ᄂㅌㅜᆨ	
+mcʰ	i	p̚	NCVC	ᄆㅊㅣᆸ	
+mcʰ	i	t̚	NCVC	ᄆㅊㅣᆮ	
+mcʰ	i	k̚	NCVC	ᄆㅊㅣᆨ	
+mcʰ	a	p̚	NCVC	ᄆㅊㅏᆸ	
+mcʰ	a	t̚	NCVC	ᄆㅊㅏᆮ	
+mcʰ	a	k̚	NCVC	ᄆㅊㅏᆨ	
+mcʰ	o	p̚	NCVC	ᄆㅊㅗᆸ	
+mcʰ	o	t̚	NCVC	ᄆㅊㅗᆮ	
+mcʰ	o	k̚	NCVC	ᄆㅊㅗᆨ	
+mcʰ	u	p̚	NCVC	ᄆㅊㅜᆸ	
+mcʰ	u	t̚	NCVC	ᄆㅊㅜᆮ	
+mcʰ	u	k̚	NCVC	ᄆㅊㅜᆨ	
+ncʰ	i	p̚	NCVC	ᄂㅊㅣᆸ	
+ncʰ	i	t̚	NCVC	ᄂㅊㅣᆮ	
+ncʰ	i	k̚	NCVC	ᄂㅊㅣᆨ	
+ncʰ	a	p̚	NCVC	ᄂㅊㅏᆸ	
+ncʰ	a	t̚	NCVC	ᄂㅊㅏᆮ	
+ncʰ	a	k̚	NCVC	ᄂㅊㅏᆨ	
+ncʰ	o	p̚	NCVC	ᄂㅊㅗᆸ	
+ncʰ	o	t̚	NCVC	ᄂㅊㅗᆮ	
+ncʰ	o	k̚	NCVC	ᄂㅊㅗᆨ	
+ncʰ	u	p̚	NCVC	ᄂㅊㅜᆸ	
+ncʰ	u	t̚	NCVC	ᄂㅊㅜᆮ	
+ncʰ	u	k̚	NCVC	ᄂㅊㅜᆨ	
+mkʰ	i	p̚	NCVC	ᄆㅋㅣᆸ	
+mkʰ	i	t̚	NCVC	ᄆㅋㅣᆮ	
+mkʰ	a	p̚	NCVC	ᄆㅋㅏᆸ	
+mkʰ	a	t̚	NCVC	ᄆㅋㅏᆮ	
+mkʰ	o	p̚	NCVC	ᄆㅋㅗᆸ	
+mkʰ	o	t̚	NCVC	ᄆㅋㅗᆮ	
+mkʰ	u	p̚	NCVC	ᄆㅋㅜᆸ	
+mkʰ	u	t̚	NCVC	ᄆㅋㅜᆮ	
+nkʰ	i	p̚	NCVC	ᄂㅋㅣᆸ	
+nkʰ	i	t̚	NCVC	ᄂㅋㅣᆮ	
+nkʰ	a	p̚	NCVC	ᄂㅋㅏᆸ	
+nkʰ	a	t̚	NCVC	ᄂㅋㅏᆮ	
+nkʰ	o	p̚	NCVC	ᄂㅋㅗᆸ	
+nkʰ	o	t̚	NCVC	ᄂㅋㅗᆮ	
+nkʰ	u	p̚	NCVC	ᄂㅋㅜᆸ	
+nkʰ	u	t̚	NCVC	ᄂㅋㅜᆮ	
+pm	i	t̚	CNVC	ㅂᄆㅣᆮ	
+pm	i	k̚	CNVC	ㅂᄆㅣᆨ	
+pm	a	t̚	CNVC	ㅂᄆㅏᆮ	
+pm	a	k̚	CNVC	ㅂᄆㅏᆨ	
+pm	o	t̚	CNVC	ㅂᄆㅗᆮ	
+pm	o	k̚	CNVC	ㅂᄆㅗᆨ	
+pm	u	t̚	CNVC	ㅂᄆㅜᆮ	
+pm	u	k̚	CNVC	ㅂᄆㅜᆨ	
+pn	i	t̚	CNVC	ㅂᄂㅣᆮ	
+pn	i	k̚	CNVC	ㅂᄂㅣᆨ	
+pn	a	t̚	CNVC	ㅂᄂㅏᆮ	
+pn	a	k̚	CNVC	ㅂᄂㅏᆨ	
+pn	o	t̚	CNVC	ㅂᄂㅗᆮ	
+pn	o	k̚	CNVC	ㅂᄂㅗᆨ	
+pn	u	t̚	CNVC	ㅂᄂㅜᆮ	
+pn	u	k̚	CNVC	ㅂᄂㅜᆨ	
+tm	i	p̚	CNVC	ㄷᄆㅣᆸ	
+tm	i	k̚	CNVC	ㄷᄆㅣᆨ	
+tm	a	p̚	CNVC	ㄷᄆㅏᆸ	
+tm	a	k̚	CNVC	ㄷᄆㅏᆨ	
+tm	o	p̚	CNVC	ㄷᄆㅗᆸ	
+tm	o	k̚	CNVC	ㄷᄆㅗᆨ	
+tm	u	p̚	CNVC	ㄷᄆㅜᆸ	
+tm	u	k̚	CNVC	ㄷᄆㅜᆨ	
+tn	i	p̚	CNVC	ㄷᄂㅣᆸ	
+tn	i	k̚	CNVC	ㄷᄂㅣᆨ	
+tn	a	p̚	CNVC	ㄷᄂㅏᆸ	
+tn	a	k̚	CNVC	ㄷᄂㅏᆨ	
+tn	o	p̚	CNVC	ㄷᄂㅗᆸ	
+tn	o	k̚	CNVC	ㄷᄂㅗᆨ	
+tn	u	p̚	CNVC	ㄷᄂㅜᆸ	
+tn	u	k̚	CNVC	ㄷᄂㅜᆨ	
+cm	i	p̚	CNVC	ㅈᄆㅣᆸ	
+cm	i	t̚	CNVC	ㅈᄆㅣᆮ	
+cm	i	k̚	CNVC	ㅈᄆㅣᆨ	
+cm	a	p̚	CNVC	ㅈᄆㅏᆸ	
+cm	a	t̚	CNVC	ㅈᄆㅏᆮ	
+cm	a	k̚	CNVC	ㅈᄆㅏᆨ	
+cm	o	p̚	CNVC	ㅈᄆㅗᆸ	
+cm	o	t̚	CNVC	ㅈᄆㅗᆮ	
+cm	o	k̚	CNVC	ㅈᄆㅗᆨ	
+cm	u	p̚	CNVC	ㅈᄆㅜᆸ	
+cm	u	t̚	CNVC	ㅈᄆㅜᆮ	
+cm	u	k̚	CNVC	ㅈᄆㅜᆨ	
+cn	i	p̚	CNVC	ㅈᄂㅣᆸ	
+cn	i	t̚	CNVC	ㅈᄂㅣᆮ	
+cn	i	k̚	CNVC	ㅈᄂㅣᆨ	
+cn	a	p̚	CNVC	ㅈᄂㅏᆸ	
+cn	a	t̚	CNVC	ㅈᄂㅏᆮ	
+cn	a	k̚	CNVC	ㅈᄂㅏᆨ	
+cn	o	p̚	CNVC	ㅈᄂㅗᆸ	
+cn	o	t̚	CNVC	ㅈᄂㅗᆮ	
+cn	o	k̚	CNVC	ㅈᄂㅗᆨ	
+cn	u	p̚	CNVC	ㅈᄂㅜᆸ	
+cn	u	t̚	CNVC	ㅈᄂㅜᆮ	
+cn	u	k̚	CNVC	ㅈᄂㅜᆨ	
+km	i	p̚	CNVC	ㄱᄆㅣᆸ	
+km	i	t̚	CNVC	ㄱᄆㅣᆮ	
+km	a	p̚	CNVC	ㄱᄆㅏᆸ	
+km	a	t̚	CNVC	ㄱᄆㅏᆮ	
+km	o	p̚	CNVC	ㄱᄆㅗᆸ	
+km	o	t̚	CNVC	ㄱᄆㅗᆮ	
+km	u	p̚	CNVC	ㄱᄆㅜᆸ	
+km	u	t̚	CNVC	ㄱᄆㅜᆮ	
+kn	i	p̚	CNVC	ㄱᄂㅣᆸ	
+kn	i	t̚	CNVC	ㄱᄂㅣᆮ	
+kn	a	p̚	CNVC	ㄱᄂㅏᆸ	
+kn	a	t̚	CNVC	ㄱᄂㅏᆮ	
+kn	o	p̚	CNVC	ㄱᄂㅗᆸ	
+kn	o	t̚	CNVC	ㄱᄂㅗᆮ	
+kn	u	p̚	CNVC	ㄱᄂㅜᆸ	
+kn	u	t̚	CNVC	ㄱᄂㅜᆮ	
+pʰm	i	t̚	CNVC	ㅍᄆㅣᆮ	
+pʰm	i	k̚	CNVC	ㅍᄆㅣᆨ	
+pʰm	a	t̚	CNVC	ㅍᄆㅏᆮ	
+pʰm	a	k̚	CNVC	ㅍᄆㅏᆨ	
+pʰm	o	t̚	CNVC	ㅍᄆㅗᆮ	
+pʰm	o	k̚	CNVC	ㅍᄆㅗᆨ	
+pʰm	u	t̚	CNVC	ㅍᄆㅜᆮ	
+pʰm	u	k̚	CNVC	ㅍᄆㅜᆨ	
+pʰn	i	t̚	CNVC	ㅍᄂㅣᆮ	
+pʰn	i	k̚	CNVC	ㅍᄂㅣᆨ	
+pʰn	a	t̚	CNVC	ㅍᄂㅏᆮ	
+pʰn	a	k̚	CNVC	ㅍᄂㅏᆨ	
+pʰn	o	t̚	CNVC	ㅍᄂㅗᆮ	
+pʰn	o	k̚	CNVC	ㅍᄂㅗᆨ	
+pʰn	u	t̚	CNVC	ㅍᄂㅜᆮ	
+pʰn	u	k̚	CNVC	ㅍᄂㅜᆨ	
+tʰm	i	p̚	CNVC	ㅌᄆㅣᆸ	
+tʰm	i	k̚	CNVC	ㅌᄆㅣᆨ	
+tʰm	a	p̚	CNVC	ㅌᄆㅏᆸ	
+tʰm	a	k̚	CNVC	ㅌᄆㅏᆨ	
+tʰm	o	p̚	CNVC	ㅌᄆㅗᆸ	
+tʰm	o	k̚	CNVC	ㅌᄆㅗᆨ	
+tʰm	u	p̚	CNVC	ㅌᄆㅜᆸ	
+tʰm	u	k̚	CNVC	ㅌᄆㅜᆨ	
+tʰn	i	p̚	CNVC	ㅌᄂㅣᆸ	
+tʰn	i	k̚	CNVC	ㅌᄂㅣᆨ	
+tʰn	a	p̚	CNVC	ㅌᄂㅏᆸ	
+tʰn	a	k̚	CNVC	ㅌᄂㅏᆨ	
+tʰn	o	p̚	CNVC	ㅌᄂㅗᆸ	
+tʰn	o	k̚	CNVC	ㅌᄂㅗᆨ	
+tʰn	u	p̚	CNVC	ㅌᄂㅜᆸ	
+tʰn	u	k̚	CNVC	ㅌᄂㅜᆨ	
+cʰm	i	p̚	CNVC	ㅊᄆㅣᆸ	
+cʰm	i	t̚	CNVC	ㅊᄆㅣᆮ	
+cʰm	i	k̚	CNVC	ㅊᄆㅣᆨ	
+cʰm	a	p̚	CNVC	ㅊᄆㅏᆸ	
+cʰm	a	t̚	CNVC	ㅊᄆㅏᆮ	
+cʰm	a	k̚	CNVC	ㅊᄆㅏᆨ	
+cʰm	o	p̚	CNVC	ㅊᄆㅗᆸ	
+cʰm	o	t̚	CNVC	ㅊᄆㅗᆮ	
+cʰm	o	k̚	CNVC	ㅊᄆㅗᆨ	
+cʰm	u	p̚	CNVC	ㅊᄆㅜᆸ	
+cʰm	u	t̚	CNVC	ㅊᄆㅜᆮ	
+cʰm	u	k̚	CNVC	ㅊᄆㅜᆨ	
+cʰn	i	p̚	CNVC	ㅊᄂㅣᆸ	
+cʰn	i	t̚	CNVC	ㅊᄂㅣᆮ	
+cʰn	i	k̚	CNVC	ㅊᄂㅣᆨ	
+cʰn	a	p̚	CNVC	ㅊᄂㅏᆸ	
+cʰn	a	t̚	CNVC	ㅊᄂㅏᆮ	
+cʰn	a	k̚	CNVC	ㅊᄂㅏᆨ	
+cʰn	o	p̚	CNVC	ㅊᄂㅗᆸ	
+cʰn	o	t̚	CNVC	ㅊᄂㅗᆮ	
+cʰn	o	k̚	CNVC	ㅊᄂㅗᆨ	
+cʰn	u	p̚	CNVC	ㅊᄂㅜᆸ	
+cʰn	u	t̚	CNVC	ㅊᄂㅜᆮ	
+cʰn	u	k̚	CNVC	ㅊᄂㅜᆨ	
+kʰm	i	p̚	CNVC	ㅋᄆㅣᆸ	
+kʰm	i	t̚	CNVC	ㅋᄆㅣᆮ	
+kʰm	a	p̚	CNVC	ㅋᄆㅏᆸ	
+kʰm	a	t̚	CNVC	ㅋᄆㅏᆮ	
+kʰm	o	p̚	CNVC	ㅋᄆㅗᆸ	
+kʰm	o	t̚	CNVC	ㅋᄆㅗᆮ	
+kʰm	u	p̚	CNVC	ㅋᄆㅜᆸ	
+kʰm	u	t̚	CNVC	ㅋᄆㅜᆮ	
+kʰn	i	p̚	CNVC	ㅋᄂㅣᆸ	
+kʰn	i	t̚	CNVC	ㅋᄂㅣᆮ	
+kʰn	a	p̚	CNVC	ㅋᄂㅏᆸ	
+kʰn	a	t̚	CNVC	ㅋᄂㅏᆮ	
+kʰn	o	p̚	CNVC	ㅋᄂㅗᆸ	
+kʰn	o	t̚	CNVC	ㅋᄂㅗᆮ	
+kʰn	u	p̚	CNVC	ㅋᄂㅜᆸ	
+kʰn	u	t̚	CNVC	ㅋᄂㅜᆮ	
