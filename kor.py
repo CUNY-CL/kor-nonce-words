@@ -34,7 +34,7 @@ STOP_CODAS = ["p̚", "t̚", "k̚"]
 CODAS = NASAL_CODAS + STOP_CODAS
 
 MONOSYLLABLES = "monosyllables.tsv"
-BISYLLABLES = "bisyllables.tsv"
+DISYLLABLES = "disyllables.tsv"
 
 HANGUL_ONSET = {
     "p": "ㅂ",
@@ -158,7 +158,7 @@ def _monosyllables() -> Iterator[Monosyllable]:
                     yield Monosyllable(onset, vowel, coda, "CNVC")
 
 
-def _bisyllables() -> Iterator[Bisyllable]:
+def _disyllables() -> Iterator[Bisyllable]:
     # The checks on coda inoculate us against things like /mpip̚/.
     # We avoid similar onsets or vowels in back-to-back syllables too.
     # Plain.
@@ -226,7 +226,7 @@ def main():
         for entry in _monosyllables():
             line = dataclasses.astuple(entry) + (entry.jamo, entry.hangul)
             tsv_writer.writerow(line)
-    with open(BISYLLABLES, "w") as sink:
+    with open(DISYLLABLES, "w") as sink:
         tsv_writer = csv.writer(sink, delimiter="\t")
         tsv_writer.writerow(
             [
@@ -240,7 +240,7 @@ def main():
                 "hangul",
             ]
         )
-        for entry in _bisyllables():
+        for entry in _disyllables():
             line = [
                 entry.syl1.onset,
                 entry.syl1.nucleus,
