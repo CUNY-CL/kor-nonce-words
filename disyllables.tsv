@@ -1,10 +1,9 @@
-onset1	nucleus1	onset2	nucleus2	coda	shape	jamo	hangul	romanized
+onset1	nucleus1	onset2	nucleus2	coda	shape	jamo	hangul	romanization
 p	i	t	a	k̚	CVCVC	ㅂㅣㄷㅏᆨ	비닥	bidak
 p	i	t	o	k̚	CVCVC	ㅂㅣㄷㅗᆨ	비독	bidok
 p	i	t	u	k̚	CVCVC	ㅂㅣㄷㅜᆨ	비둑	biduk
 p	a	t	i	k̚	CVCVC	ㅂㅏㄷㅣᆨ	바딕	badik
 p	a	t	o	k̚	CVCVC	ㅂㅏㄷㅗᆨ	바독	badok
-p	a	t	u	k̚	CVCVC	ㅂㅏㄷㅜᆨ	바둑	baduk
 p	o	t	i	k̚	CVCVC	ㅂㅗㄷㅣᆨ	보딕	bodik
 p	o	t	a	k̚	CVCVC	ㅂㅗㄷㅏᆨ	보닥	bodak
 p	o	t	u	k̚	CVCVC	ㅂㅗㄷㅜᆨ	보둑	boduk
@@ -22,7 +21,6 @@ p	o	c	a	k̚	CVCVC	ㅂㅗㅈㅏᆨ	보작	bojak
 p	o	c	u	k̚	CVCVC	ㅂㅗㅈㅜᆨ	보죽	bojuk
 p	u	c	i	k̚	CVCVC	ㅂㅜㅈㅣᆨ	부직	bujik
 p	u	c	a	k̚	CVCVC	ㅂㅜㅈㅏᆨ	부작	bujak
-p	u	c	o	k̚	CVCVC	ㅂㅜㅈㅗᆨ	부족	bujok
 p	i	k	a	t̚	CVCVC	ㅂㅣㄱㅏᆮ	비갇	bigat
 p	i	k	o	t̚	CVCVC	ㅂㅣㄱㅗᆮ	비곧	bigot
 p	i	k	u	t̚	CVCVC	ㅂㅣㄱㅜᆮ	비굳	bigut
@@ -45,7 +43,6 @@ p	o	tʰ	i	k̚	CVCVC	ㅂㅗㅌㅣᆨ	보틱	botik
 p	o	tʰ	a	k̚	CVCVC	ㅂㅗㅌㅏᆨ	보탁	botak
 p	o	tʰ	u	k̚	CVCVC	ㅂㅗㅌㅜᆨ	보툭	botuk
 p	u	tʰ	i	k̚	CVCVC	ㅂㅜㅌㅣᆨ	부틱	butik
-p	u	tʰ	a	k̚	CVCVC	ㅂㅜㅌㅏᆨ	부탁	butak
 p	u	tʰ	o	k̚	CVCVC	ㅂㅜㅌㅗᆨ	부톡	butok
 p	i	cʰ	a	k̚	CVCVC	ㅂㅣㅊㅏᆨ	비착	bichak
 p	i	cʰ	o	k̚	CVCVC	ㅂㅣㅊㅗᆨ	비촉	bichok
@@ -78,7 +75,6 @@ p	a	s	i	k̚	CVCVC	ㅂㅏᄉㅣᆨ	바식	basik
 p	a	s	o	k̚	CVCVC	ㅂㅏᄉㅗᆨ	바속	basok
 p	a	s	u	k̚	CVCVC	ㅂㅏᄉㅜᆨ	바숙	basuk
 p	o	s	i	k̚	CVCVC	ㅂㅗᄉㅣᆨ	보식	bosik
-p	o	s	a	k̚	CVCVC	ㅂㅗᄉㅏᆨ	보삭	bosak
 p	o	s	u	k̚	CVCVC	ㅂㅗᄉㅜᆨ	보숙	bosuk
 p	u	s	i	k̚	CVCVC	ㅂㅜᄉㅣᆨ	부식	busik
 p	u	s	a	k̚	CVCVC	ㅂㅜᄉㅏᆨ	부삭	busak
@@ -114,7 +110,6 @@ t	a	p	i	k̚	CVCVC	ㄷㅏㅂㅣᆨ	다빅	dabik
 t	a	p	o	k̚	CVCVC	ㄷㅏㅂㅗᆨ	다복	dabok
 t	a	p	u	k̚	CVCVC	ㄷㅏㅂㅜᆨ	다북	dabuk
 t	o	p	i	k̚	CVCVC	ㄷㅗㅂㅣᆨ	도빅	dobik
-t	o	p	a	k̚	CVCVC	ㄷㅗㅂㅏᆨ	도박	dobak
 t	o	p	u	k̚	CVCVC	ㄷㅗㅂㅜᆨ	도북	dobuk
 t	u	p	i	k̚	CVCVC	ㄷㅜㅂㅣᆨ	두빅	dubik
 t	u	p	a	k̚	CVCVC	ㄷㅜㅂㅏᆨ	두박	dubak
@@ -126,7 +121,6 @@ t	a	c	i	k̚	CVCVC	ㄷㅏㅈㅣᆨ	다직	dajik
 t	a	c	o	k̚	CVCVC	ㄷㅏㅈㅗᆨ	다족	dajok
 t	a	c	u	k̚	CVCVC	ㄷㅏㅈㅜᆨ	다죽	dajuk
 t	o	c	i	k̚	CVCVC	ㄷㅗㅈㅣᆨ	도직	dojik
-t	o	c	a	k̚	CVCVC	ㄷㅗㅈㅏᆨ	도작	dojak
 t	o	c	u	k̚	CVCVC	ㄷㅗㅈㅜᆨ	도죽	dojuk
 t	u	c	i	k̚	CVCVC	ㄷㅜㅈㅣᆨ	두직	dujik
 t	u	c	a	k̚	CVCVC	ㄷㅜㅈㅏᆨ	두작	dujak
@@ -198,11 +192,9 @@ t	a	m	i	k̚	CVCVC	ㄷㅏᄆㅣᆨ	다믹	damik
 t	a	m	o	k̚	CVCVC	ㄷㅏᄆㅗᆨ	다목	damok
 t	a	m	u	k̚	CVCVC	ㄷㅏᄆㅜᆨ	다묵	damuk
 t	o	m	i	k̚	CVCVC	ㄷㅗᄆㅣᆨ	도믹	domik
-t	o	m	a	k̚	CVCVC	ㄷㅗᄆㅏᆨ	도막	domak
 t	o	m	u	k̚	CVCVC	ㄷㅗᄆㅜᆨ	도묵	domuk
 t	u	m	i	k̚	CVCVC	ㄷㅜᄆㅣᆨ	두믹	dumik
 t	u	m	a	k̚	CVCVC	ㄷㅜᄆㅏᆨ	두막	dumak
-t	u	m	o	k̚	CVCVC	ㄷㅜᄆㅗᆨ	두목	dumok
 t	i	n	a	k̚	CVCVC	ㄷㅣᄂㅏᆨ	디낙	dinak
 t	i	n	o	k̚	CVCVC	ㄷㅣᄂㅗᆨ	디녹	dinok
 t	i	n	u	k̚	CVCVC	ㄷㅣᄂㅜᆨ	디눅	dinuk
@@ -290,13 +282,10 @@ c	u	kʰ	o	t̚	CVCVC	ㅈㅜㅋㅗᆮ	주콛	jukot
 c	i	s	a	k̚	CVCVC	ㅈㅣᄉㅏᆨ	지삭	jisak
 c	i	s	o	k̚	CVCVC	ㅈㅣᄉㅗᆨ	지속	jisok
 c	i	s	u	k̚	CVCVC	ㅈㅣᄉㅜᆨ	지숙	jisuk
-c	a	s	i	k̚	CVCVC	ㅈㅏᄉㅣᆨ	자식	jasik
 c	a	s	o	k̚	CVCVC	ㅈㅏᄉㅗᆨ	자속	jasok
 c	a	s	u	k̚	CVCVC	ㅈㅏᄉㅜᆨ	자숙	jasuk
-c	o	s	i	k̚	CVCVC	ㅈㅗᄉㅣᆨ	조식	josik
 c	o	s	a	k̚	CVCVC	ㅈㅗᄉㅏᆨ	조삭	josak
 c	o	s	u	k̚	CVCVC	ㅈㅗᄉㅜᆨ	조숙	josuk
-c	u	s	i	k̚	CVCVC	ㅈㅜᄉㅣᆨ	주식	jusik
 c	u	s	a	k̚	CVCVC	ㅈㅜᄉㅏᆨ	주삭	jusak
 c	u	s	o	k̚	CVCVC	ㅈㅜᄉㅗᆨ	주속	jusok
 c	i	m	a	k̚	CVCVC	ㅈㅣᄆㅏᆨ	지막	jimak
@@ -309,9 +298,7 @@ c	o	m	i	k̚	CVCVC	ㅈㅗᄆㅣᆨ	조믹	jomik
 c	o	m	a	k̚	CVCVC	ㅈㅗᄆㅏᆨ	조막	jomak
 c	o	m	u	k̚	CVCVC	ㅈㅗᄆㅜᆨ	조묵	jomuk
 c	u	m	i	k̚	CVCVC	ㅈㅜᄆㅣᆨ	주믹	jumik
-c	u	m	a	k̚	CVCVC	ㅈㅜᄆㅏᆨ	주막	jumak
 c	u	m	o	k̚	CVCVC	ㅈㅜᄆㅗᆨ	주목	jumok
-c	i	n	a	k̚	CVCVC	ㅈㅣᄂㅏᆨ	지낙	jinak
 c	i	n	o	k̚	CVCVC	ㅈㅣᄂㅗᆨ	지녹	jinok
 c	i	n	u	k̚	CVCVC	ㅈㅣᄂㅜᆨ	지눅	jinuk
 c	a	n	i	k̚	CVCVC	ㅈㅏᄂㅣᆨ	자닉	janik
@@ -336,7 +323,6 @@ k	u	p	i	k̚	CVCVC	ㄱㅜㅂㅣᆨ	구빅	gubik
 k	u	p	a	k̚	CVCVC	ㄱㅜㅂㅏᆨ	구박	gubak
 k	u	p	o	k̚	CVCVC	ㄱㅜㅂㅗᆨ	구복	gubok
 k	i	t	a	k̚	CVCVC	ㄱㅣㄷㅏᆨ	기닥	gidak
-k	i	t	o	k̚	CVCVC	ㄱㅣㄷㅗᆨ	기독	gidok
 k	i	t	u	k̚	CVCVC	ㄱㅣㄷㅜᆨ	기둑	giduk
 k	a	t	i	k̚	CVCVC	ㄱㅏㄷㅣᆨ	가딕	gadik
 k	a	t	o	k̚	CVCVC	ㄱㅏㄷㅗᆨ	가독	gadok
@@ -346,15 +332,11 @@ k	o	t	a	k̚	CVCVC	ㄱㅗㄷㅏᆨ	고닥	godak
 k	o	t	u	k̚	CVCVC	ㄱㅗㄷㅜᆨ	고둑	goduk
 k	u	t	i	k̚	CVCVC	ㄱㅜㄷㅣᆨ	구딕	gudik
 k	u	t	a	k̚	CVCVC	ㄱㅜㄷㅏᆨ	구닥	gudak
-k	u	t	o	k̚	CVCVC	ㄱㅜㄷㅗᆨ	구독	gudok
 k	i	c	a	k̚	CVCVC	ㄱㅣㅈㅏᆨ	기작	gijak
 k	i	c	o	k̚	CVCVC	ㄱㅣㅈㅗᆨ	기족	gijok
 k	i	c	u	k̚	CVCVC	ㄱㅣㅈㅜᆨ	기죽	gijuk
 k	a	c	i	k̚	CVCVC	ㄱㅏㅈㅣᆨ	가직	gajik
-k	a	c	o	k̚	CVCVC	ㄱㅏㅈㅗᆨ	가족	gajok
-k	a	c	u	k̚	CVCVC	ㄱㅏㅈㅜᆨ	가죽	gajuk
 k	o	c	i	k̚	CVCVC	ㄱㅗㅈㅣᆨ	고직	gojik
-k	o	c	a	k̚	CVCVC	ㄱㅗㅈㅏᆨ	고작	gojak
 k	o	c	u	k̚	CVCVC	ㄱㅗㅈㅜᆨ	고죽	gojuk
 k	u	c	i	k̚	CVCVC	ㄱㅜㅈㅣᆨ	구직	gujik
 k	u	c	a	k̚	CVCVC	ㄱㅜㅈㅏᆨ	구작	gujak
@@ -388,7 +370,6 @@ k	i	cʰ	o	k̚	CVCVC	ㄱㅣㅊㅗᆨ	기촉	gichok
 k	i	cʰ	u	k̚	CVCVC	ㄱㅣㅊㅜᆨ	기축	gichuk
 k	a	cʰ	i	k̚	CVCVC	ㄱㅏㅊㅣᆨ	가칙	gachik
 k	a	cʰ	o	k̚	CVCVC	ㄱㅏㅊㅗᆨ	가촉	gachok
-k	a	cʰ	u	k̚	CVCVC	ㄱㅏㅊㅜᆨ	가축	gachuk
 k	o	cʰ	i	k̚	CVCVC	ㄱㅗㅊㅣᆨ	고칙	gochik
 k	o	cʰ	a	k̚	CVCVC	ㄱㅗㅊㅏᆨ	고착	gochak
 k	o	cʰ	u	k̚	CVCVC	ㄱㅗㅊㅜᆨ	고축	gochuk
@@ -398,23 +379,18 @@ k	u	cʰ	o	k̚	CVCVC	ㄱㅜㅊㅗᆨ	구촉	guchok
 k	i	s	a	k̚	CVCVC	ㄱㅣᄉㅏᆨ	기삭	gisak
 k	i	s	o	k̚	CVCVC	ㄱㅣᄉㅗᆨ	기속	gisok
 k	i	s	u	k̚	CVCVC	ㄱㅣᄉㅜᆨ	기숙	gisuk
-k	a	s	i	k̚	CVCVC	ㄱㅏᄉㅣᆨ	가식	gasik
 k	a	s	o	k̚	CVCVC	ㄱㅏᄉㅗᆨ	가속	gasok
 k	a	s	u	k̚	CVCVC	ㄱㅏᄉㅜᆨ	가숙	gasuk
 k	o	s	i	k̚	CVCVC	ㄱㅗᄉㅣᆨ	고식	gosik
 k	o	s	a	k̚	CVCVC	ㄱㅗᄉㅏᆨ	고삭	gosak
 k	o	s	u	k̚	CVCVC	ㄱㅗᄉㅜᆨ	고숙	gosuk
-k	u	s	i	k̚	CVCVC	ㄱㅜᄉㅣᆨ	구식	gusik
 k	u	s	a	k̚	CVCVC	ㄱㅜᄉㅏᆨ	구삭	gusak
-k	u	s	o	k̚	CVCVC	ㄱㅜᄉㅗᆨ	구속	gusok
 k	i	m	a	k̚	CVCVC	ㄱㅣᄆㅏᆨ	기막	gimak
 k	i	m	o	k̚	CVCVC	ㄱㅣᄆㅗᆨ	기목	gimok
 k	i	m	u	k̚	CVCVC	ㄱㅣᄆㅜᆨ	기묵	gimuk
 k	a	m	i	k̚	CVCVC	ㄱㅏᄆㅣᆨ	가믹	gamik
-k	a	m	o	k̚	CVCVC	ㄱㅏᄆㅗᆨ	가목	gamok
 k	a	m	u	k̚	CVCVC	ㄱㅏᄆㅜᆨ	가묵	gamuk
 k	o	m	i	k̚	CVCVC	ㄱㅗᄆㅣᆨ	고믹	gomik
-k	o	m	a	k̚	CVCVC	ㄱㅗᄆㅏᆨ	고막	gomak
 k	o	m	u	k̚	CVCVC	ㄱㅗᄆㅜᆨ	고묵	gomuk
 k	u	m	i	k̚	CVCVC	ㄱㅜᄆㅣᆨ	구믹	gumik
 k	u	m	a	k̚	CVCVC	ㄱㅜᄆㅏᆨ	구막	gumak
@@ -510,7 +486,6 @@ pʰ	a	s	i	k̚	CVCVC	ㅍㅏᄉㅣᆨ	파식	pasik
 pʰ	a	s	o	k̚	CVCVC	ㅍㅏᄉㅗᆨ	파속	pasok
 pʰ	a	s	u	k̚	CVCVC	ㅍㅏᄉㅜᆨ	파숙	pasuk
 pʰ	o	s	i	k̚	CVCVC	ㅍㅗᄉㅣᆨ	포식	posik
-pʰ	o	s	a	k̚	CVCVC	ㅍㅗᄉㅏᆨ	포삭	posak
 pʰ	o	s	u	k̚	CVCVC	ㅍㅗᄉㅜᆨ	포숙	posuk
 pʰ	u	s	i	k̚	CVCVC	ㅍㅜᄉㅣᆨ	푸식	pusik
 pʰ	u	s	a	k̚	CVCVC	ㅍㅜᄉㅏᆨ	푸삭	pusak
@@ -581,7 +556,6 @@ tʰ	i	pʰ	u	k̚	CVCVC	ㅌㅣㅍㅜᆨ	티푹	tipuk
 tʰ	a	pʰ	i	k̚	CVCVC	ㅌㅏㅍㅣᆨ	타픽	tapik
 tʰ	a	pʰ	o	k̚	CVCVC	ㅌㅏㅍㅗᆨ	타폭	tapok
 tʰ	a	pʰ	u	k̚	CVCVC	ㅌㅏㅍㅜᆨ	타푹	tapuk
-tʰ	o	pʰ	i	k̚	CVCVC	ㅌㅗㅍㅣᆨ	토픽	topik
 tʰ	o	pʰ	a	k̚	CVCVC	ㅌㅗㅍㅏᆨ	토팍	topak
 tʰ	o	pʰ	u	k̚	CVCVC	ㅌㅗㅍㅜᆨ	토푹	topuk
 tʰ	u	pʰ	i	k̚	CVCVC	ㅌㅜㅍㅣᆨ	투픽	tupik
@@ -594,7 +568,6 @@ tʰ	a	cʰ	i	k̚	CVCVC	ㅌㅏㅊㅣᆨ	타칙	tachik
 tʰ	a	cʰ	o	k̚	CVCVC	ㅌㅏㅊㅗᆨ	타촉	tachok
 tʰ	a	cʰ	u	k̚	CVCVC	ㅌㅏㅊㅜᆨ	타축	tachuk
 tʰ	o	cʰ	i	k̚	CVCVC	ㅌㅗㅊㅣᆨ	토칙	tochik
-tʰ	o	cʰ	a	k̚	CVCVC	ㅌㅗㅊㅏᆨ	토착	tochak
 tʰ	o	cʰ	u	k̚	CVCVC	ㅌㅗㅊㅜᆨ	토축	tochuk
 tʰ	u	cʰ	i	k̚	CVCVC	ㅌㅜㅊㅣᆨ	투칙	tuchik
 tʰ	u	cʰ	a	k̚	CVCVC	ㅌㅜㅊㅏᆨ	투착	tuchak
@@ -630,7 +603,6 @@ tʰ	a	m	i	k̚	CVCVC	ㅌㅏᄆㅣᆨ	타믹	tamik
 tʰ	a	m	o	k̚	CVCVC	ㅌㅏᄆㅗᆨ	타목	tamok
 tʰ	a	m	u	k̚	CVCVC	ㅌㅏᄆㅜᆨ	타묵	tamuk
 tʰ	o	m	i	k̚	CVCVC	ㅌㅗᄆㅣᆨ	토믹	tomik
-tʰ	o	m	a	k̚	CVCVC	ㅌㅗᄆㅏᆨ	토막	tomak
 tʰ	o	m	u	k̚	CVCVC	ㅌㅗᄆㅜᆨ	토묵	tomuk
 tʰ	u	m	i	k̚	CVCVC	ㅌㅜᄆㅣᆨ	투믹	tumik
 tʰ	u	m	a	k̚	CVCVC	ㅌㅜᄆㅏᆨ	투막	tumak
@@ -873,7 +845,6 @@ s	o	p	i	k̚	CVCVC	ᄉㅗㅂㅣᆨ	소빅	sobik
 s	o	p	a	k̚	CVCVC	ᄉㅗㅂㅏᆨ	소박	sobak
 s	o	p	u	k̚	CVCVC	ᄉㅗㅂㅜᆨ	소북	sobuk
 s	u	p	i	k̚	CVCVC	ᄉㅜㅂㅣᆨ	수빅	subik
-s	u	p	a	k̚	CVCVC	ᄉㅜㅂㅏᆨ	수박	subak
 s	u	p	o	k̚	CVCVC	ᄉㅜㅂㅗᆨ	수복	subok
 s	i	t	a	k̚	CVCVC	ᄉㅣㄷㅏᆨ	시닥	sidak
 s	i	t	o	k̚	CVCVC	ᄉㅣㄷㅗᆨ	시독	sidok
@@ -887,11 +858,8 @@ s	o	t	u	k̚	CVCVC	ᄉㅗㄷㅜᆨ	소둑	soduk
 s	u	t	i	k̚	CVCVC	ᄉㅜㄷㅣᆨ	수딕	sudik
 s	u	t	a	k̚	CVCVC	ᄉㅜㄷㅏᆨ	수닥	sudak
 s	u	t	o	k̚	CVCVC	ᄉㅜㄷㅗᆨ	수독	sudok
-s	i	c	a	k̚	CVCVC	ᄉㅣㅈㅏᆨ	시작	sijak
 s	i	c	o	k̚	CVCVC	ᄉㅣㅈㅗᆨ	시족	sijok
 s	i	c	u	k̚	CVCVC	ᄉㅣㅈㅜᆨ	시죽	sijuk
-s	a	c	i	k̚	CVCVC	ᄉㅏㅈㅣᆨ	사직	sajik
-s	a	c	o	k̚	CVCVC	ᄉㅏㅈㅗᆨ	사족	sajok
 s	a	c	u	k̚	CVCVC	ᄉㅏㅈㅜᆨ	사죽	sajuk
 s	o	c	i	k̚	CVCVC	ᄉㅗㅈㅣᆨ	소직	sojik
 s	o	c	a	k̚	CVCVC	ᄉㅗㅈㅏᆨ	소작	sojak
@@ -933,7 +901,6 @@ s	o	tʰ	i	k̚	CVCVC	ᄉㅗㅌㅣᆨ	소틱	sotik
 s	o	tʰ	a	k̚	CVCVC	ᄉㅗㅌㅏᆨ	소탁	sotak
 s	o	tʰ	u	k̚	CVCVC	ᄉㅗㅌㅜᆨ	소툭	sotuk
 s	u	tʰ	i	k̚	CVCVC	ᄉㅜㅌㅣᆨ	수틱	sutik
-s	u	tʰ	a	k̚	CVCVC	ᄉㅜㅌㅏᆨ	수탁	sutak
 s	u	tʰ	o	k̚	CVCVC	ᄉㅜㅌㅗᆨ	수톡	sutok
 s	i	cʰ	a	k̚	CVCVC	ᄉㅣㅊㅏᆨ	시착	sichak
 s	i	cʰ	o	k̚	CVCVC	ᄉㅣㅊㅗᆨ	시촉	sichok
@@ -944,7 +911,6 @@ s	a	cʰ	u	k̚	CVCVC	ᄉㅏㅊㅜᆨ	사축	sachuk
 s	o	cʰ	i	k̚	CVCVC	ᄉㅗㅊㅣᆨ	소칙	sochik
 s	o	cʰ	a	k̚	CVCVC	ᄉㅗㅊㅏᆨ	소착	sochak
 s	o	cʰ	u	k̚	CVCVC	ᄉㅗㅊㅜᆨ	소축	sochuk
-s	u	cʰ	i	k̚	CVCVC	ᄉㅜㅊㅣᆨ	수칙	suchik
 s	u	cʰ	a	k̚	CVCVC	ᄉㅜㅊㅏᆨ	수착	suchak
 s	u	cʰ	o	k̚	CVCVC	ᄉㅜㅊㅗᆨ	수촉	suchok
 s	i	kʰ	a	t̚	CVCVC	ᄉㅣㅋㅏᆮ	시칻	sikat
@@ -1085,12 +1051,10 @@ m	i	s	u	k̚	CVCVC	ᄆㅣᄉㅜᆨ	미숙	misuk
 m	a	s	i	k̚	CVCVC	ᄆㅏᄉㅣᆨ	마식	masik
 m	a	s	o	k̚	CVCVC	ᄆㅏᄉㅗᆨ	마속	masok
 m	a	s	u	k̚	CVCVC	ᄆㅏᄉㅜᆨ	마숙	masuk
-m	o	s	i	k̚	CVCVC	ᄆㅗᄉㅣᆨ	모식	mosik
 m	o	s	a	k̚	CVCVC	ᄆㅗᄉㅏᆨ	모삭	mosak
 m	o	s	u	k̚	CVCVC	ᄆㅗᄉㅜᆨ	모숙	mosuk
 m	u	s	i	k̚	CVCVC	ᄆㅜᄉㅣᆨ	무식	musik
 m	u	s	a	k̚	CVCVC	ᄆㅜᄉㅏᆨ	무삭	musak
-m	u	s	o	k̚	CVCVC	ᄆㅜᄉㅗᆨ	무속	musok
 m	i	n	a	k̚	CVCVC	ᄆㅣᄂㅏᆨ	미낙	minak
 m	i	n	o	k̚	CVCVC	ᄆㅣᄂㅗᆨ	미녹	minok
 m	i	n	u	k̚	CVCVC	ᄆㅣᄂㅜᆨ	미눅	minuk
@@ -2260,7 +2224,6 @@ c	wa	s	i	n	CwVCVC	ㅈㅘᄉㅣᆫ	좌신	jwasin
 c	wa	s	i	ŋ	CwVCVC	ㅈㅘᄉㅣᆼ	좌싱	jwasing
 c	wa	s	i	p̚	CwVCVC	ㅈㅘᄉㅣᆸ	좌십	jwasip
 c	wa	s	i	t̚	CwVCVC	ㅈㅘᄉㅣᆮ	좌싣	jwasit
-c	wa	s	i	k̚	CwVCVC	ㅈㅘᄉㅣᆨ	좌식	jwasik
 c	wa	s	a	m	CwVCVC	ㅈㅘᄉㅏᆷ	좌삼	jwasam
 c	wa	s	a	n	CwVCVC	ㅈㅘᄉㅏᆫ	좌산	jwasan
 c	wa	s	a	ŋ	CwVCVC	ㅈㅘᄉㅏᆼ	좌상	jwasang
@@ -2360,7 +2323,6 @@ c	wa	n	u	p̚	CwVCVC	ㅈㅘᄂㅜᆸ	좌눕	jwanup
 c	wa	n	u	t̚	CwVCVC	ㅈㅘᄂㅜᆮ	좌눋	jwanut
 c	wa	n	u	k̚	CwVCVC	ㅈㅘᄂㅜᆨ	좌눅	jwanuk
 k	wi	p	i	m	CwVCVC	ㄱㅟㅂㅣᆷ	귀빔	gwibim
-k	wi	p	i	n	CwVCVC	ㄱㅟㅂㅣᆫ	귀빈	gwibin
 k	wi	p	i	ŋ	CwVCVC	ㄱㅟㅂㅣᆼ	귀빙	gwibing
 k	wi	p	i	t̚	CwVCVC	ㄱㅟㅂㅣᆮ	귀빋	gwibit
 k	wi	p	i	k̚	CwVCVC	ㄱㅟㅂㅣᆨ	귀빅	gwibik
@@ -2456,7 +2418,6 @@ k	wi	c	o	n	CwVCVC	ㄱㅟㅈㅗᆫ	귀존	gwijon
 k	wi	c	o	ŋ	CwVCVC	ㄱㅟㅈㅗᆼ	귀종	gwijong
 k	wi	c	o	p̚	CwVCVC	ㄱㅟㅈㅗᆸ	귀좁	gwijop
 k	wi	c	o	t̚	CwVCVC	ㄱㅟㅈㅗᆮ	귀졷	gwijot
-k	wi	c	o	k̚	CwVCVC	ㄱㅟㅈㅗᆨ	귀족	gwijok
 k	wi	c	u	m	CwVCVC	ㄱㅟㅈㅜᆷ	귀줌	gwijum
 k	wi	c	u	n	CwVCVC	ㄱㅟㅈㅜᆫ	귀준	gwijun
 k	wi	c	u	ŋ	CwVCVC	ㄱㅟㅈㅜᆼ	귀중	gwijung
@@ -2471,7 +2432,6 @@ k	wa	c	i	t̚	CwVCVC	ㄱㅘㅈㅣᆮ	과짇	gwajit
 k	wa	c	i	k̚	CwVCVC	ㄱㅘㅈㅣᆨ	과직	gwajik
 k	wa	c	a	m	CwVCVC	ㄱㅘㅈㅏᆷ	과잠	gwajam
 k	wa	c	a	n	CwVCVC	ㄱㅘㅈㅏᆫ	과잔	gwajan
-k	wa	c	a	ŋ	CwVCVC	ㄱㅘㅈㅏᆼ	과장	gwajang
 k	wa	c	a	p̚	CwVCVC	ㄱㅘㅈㅏᆸ	과잡	gwajap
 k	wa	c	a	t̚	CwVCVC	ㄱㅘㅈㅏᆮ	과잗	gwajat
 k	wa	c	a	k̚	CwVCVC	ㄱㅘㅈㅏᆨ	과작	gwajak
@@ -2549,7 +2509,6 @@ k	wi	tʰ	u	p̚	CwVCVC	ㄱㅟㅌㅜᆸ	귀툽	gwitup
 k	wi	tʰ	u	k̚	CwVCVC	ㄱㅟㅌㅜᆨ	귀툭	gwituk
 k	wa	tʰ	i	m	CwVCVC	ㄱㅘㅌㅣᆷ	과팀	gwatim
 k	wa	tʰ	i	n	CwVCVC	ㄱㅘㅌㅣᆫ	과틴	gwatin
-k	wa	tʰ	i	ŋ	CwVCVC	ㄱㅘㅌㅣᆼ	과팅	gwating
 k	wa	tʰ	i	p̚	CwVCVC	ㄱㅘㅌㅣᆸ	과팁	gwatip
 k	wa	tʰ	i	k̚	CwVCVC	ㄱㅘㅌㅣᆨ	과틱	gwatik
 k	wa	tʰ	a	m	CwVCVC	ㄱㅘㅌㅏᆷ	과탐	gwatam
@@ -2616,7 +2575,6 @@ k	wa	cʰ	u	p̚	CwVCVC	ㄱㅘㅊㅜᆸ	과춥	gwachup
 k	wa	cʰ	u	t̚	CwVCVC	ㄱㅘㅊㅜᆮ	과춛	gwachut
 k	wa	cʰ	u	k̚	CwVCVC	ㄱㅘㅊㅜᆨ	과축	gwachuk
 k	wi	s	i	m	CwVCVC	ㄱㅟᄉㅣᆷ	귀심	gwisim
-k	wi	s	i	n	CwVCVC	ㄱㅟᄉㅣᆫ	귀신	gwisin
 k	wi	s	i	ŋ	CwVCVC	ㄱㅟᄉㅣᆼ	귀싱	gwising
 k	wi	s	i	p̚	CwVCVC	ㄱㅟᄉㅣᆸ	귀십	gwisip
 k	wi	s	i	t̚	CwVCVC	ㄱㅟᄉㅣᆮ	귀싣	gwisit
@@ -2634,7 +2592,6 @@ k	wi	s	o	p̚	CwVCVC	ㄱㅟᄉㅗᆸ	귀솝	gwisop
 k	wi	s	o	t̚	CwVCVC	ㄱㅟᄉㅗᆮ	귀솓	gwisot
 k	wi	s	o	k̚	CwVCVC	ㄱㅟᄉㅗᆨ	귀속	gwisok
 k	wi	s	u	m	CwVCVC	ㄱㅟᄉㅜᆷ	귀숨	gwisum
-k	wi	s	u	n	CwVCVC	ㄱㅟᄉㅜᆫ	귀순	gwisun
 k	wi	s	u	ŋ	CwVCVC	ㄱㅟᄉㅜᆼ	귀숭	gwisung
 k	wi	s	u	p̚	CwVCVC	ㄱㅟᄉㅜᆸ	귀숩	gwisup
 k	wi	s	u	t̚	CwVCVC	ㄱㅟᄉㅜᆮ	귀숟	gwisut
@@ -2644,7 +2601,6 @@ k	wa	s	i	n	CwVCVC	ㄱㅘᄉㅣᆫ	과신	gwasin
 k	wa	s	i	ŋ	CwVCVC	ㄱㅘᄉㅣᆼ	과싱	gwasing
 k	wa	s	i	p̚	CwVCVC	ㄱㅘᄉㅣᆸ	과십	gwasip
 k	wa	s	i	t̚	CwVCVC	ㄱㅘᄉㅣᆮ	과싣	gwasit
-k	wa	s	i	k̚	CwVCVC	ㄱㅘᄉㅣᆨ	과식	gwasik
 k	wa	s	a	m	CwVCVC	ㄱㅘᄉㅏᆷ	과삼	gwasam
 k	wa	s	a	n	CwVCVC	ㄱㅘᄉㅏᆫ	과산	gwasan
 k	wa	s	a	ŋ	CwVCVC	ㄱㅘᄉㅏᆼ	과상	gwasang
@@ -2666,7 +2622,6 @@ k	wa	s	u	k̚	CwVCVC	ㄱㅘᄉㅜᆨ	과숙	gwasuk
 k	wi	m	i	n	CwVCVC	ㄱㅟᄆㅣᆫ	귀민	gwimin
 k	wi	m	i	ŋ	CwVCVC	ㄱㅟᄆㅣᆼ	귀밍	gwiming
 k	wi	m	i	p̚	CwVCVC	ㄱㅟᄆㅣᆸ	귀밉	gwimip
-k	wi	m	i	t̚	CwVCVC	ㄱㅟᄆㅣᆮ	귀믿	gwimit
 k	wi	m	i	k̚	CwVCVC	ㄱㅟᄆㅣᆨ	귀믹	gwimik
 k	wi	m	a	n	CwVCVC	ㄱㅟᄆㅏᆫ	귀만	gwiman
 k	wi	m	a	ŋ	CwVCVC	ㄱㅟᄆㅏᆼ	귀망	gwimang
@@ -2697,7 +2652,6 @@ k	wa	m	o	n	CwVCVC	ㄱㅘᄆㅗᆫ	과몬	gwamon
 k	wa	m	o	ŋ	CwVCVC	ㄱㅘᄆㅗᆼ	과몽	gwamong
 k	wa	m	o	p̚	CwVCVC	ㄱㅘᄆㅗᆸ	과몹	gwamop
 k	wa	m	o	t̚	CwVCVC	ㄱㅘᄆㅗᆮ	과몯	gwamot
-k	wa	m	o	k̚	CwVCVC	ㄱㅘᄆㅗᆨ	과목	gwamok
 k	wa	m	u	n	CwVCVC	ㄱㅘᄆㅜᆫ	과문	gwamun
 k	wa	m	u	ŋ	CwVCVC	ㄱㅘᄆㅜᆼ	과뭉	gwamung
 k	wa	m	u	p̚	CwVCVC	ㄱㅘᄆㅜᆸ	과뭅	gwamup
@@ -3215,7 +3169,6 @@ tʰ	wa	c	u	ŋ	CwVCVC	ㅌㅘㅈㅜᆼ	톼중	twajung
 tʰ	wa	c	u	p̚	CwVCVC	ㅌㅘㅈㅜᆸ	톼줍	twajup
 tʰ	wa	c	u	t̚	CwVCVC	ㅌㅘㅈㅜᆮ	톼줃	twajut
 tʰ	wa	c	u	k̚	CwVCVC	ㅌㅘㅈㅜᆨ	톼죽	twajuk
-tʰ	wi	k	i	m	CwVCVC	ㅌㅟㄱㅣᆷ	튀김	twigim
 tʰ	wi	k	i	n	CwVCVC	ㅌㅟㄱㅣᆫ	튀긴	twigin
 tʰ	wi	k	i	ŋ	CwVCVC	ㅌㅟㄱㅣᆼ	튀깅	twiging
 tʰ	wi	k	i	p̚	CwVCVC	ㅌㅟㄱㅣᆸ	튀깁	twigip

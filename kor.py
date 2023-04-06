@@ -8,9 +8,11 @@ according to our assumptions about grammaticality.
 
 import csv
 import dataclasses
+import functools
 import itertools
+import logging
 
-from typing import Iterator, List, Optional, Tuple
+from typing import Iterator, List, Optional, Set, Tuple
 
 import jamo
 import korean_romanizer
@@ -35,6 +37,7 @@ CODAS = NASAL_CODAS + STOP_CODAS
 
 MONOSYLLABLES = "monosyllables.tsv"
 DISYLLABLES = "disyllables.tsv"
+LEXICON = "kor_hang_narrow.tsv"
 
 HANGUL_ONSET = {
     "p": "ㅂ",
@@ -62,6 +65,10 @@ HANGUL_CODA = {"p̚": "ᆸ", "t̚": "ᆮ", "k̚": "ᆨ", "m": "ᆷ", "n": "ᆫ",
 
 class Error(Exception):
     pass
+
+
+def _romanize(hangul: str) -> str:
+    return korean_romanizer.Romanizer(hangul).romanize()
 
 
 @dataclasses.dataclass
@@ -92,7 +99,7 @@ class Monosyllable:
     def jamo(self) -> str:
         return "".join(self.jamo_tuple())
 
-    @property
+    @functools.cached_property
     def hangul(self) -> str:
         spelled_onset, spelled_nucleus, spelled_coda = self.jamo_tuple()
         try:
@@ -104,9 +111,9 @@ class Monosyllable:
 
     # TODO: maybe should be a mixin so I don't have to repeat.
 
-    @property
+    @functools.cached_property
     def romanization(self) -> str:
-        return korean_romanizer.Romanizer(self.hangul).romanize()
+        return _romanize(self.hangul)
 
     @property
     def line(self) -> List[str]:
@@ -131,7 +138,7 @@ class Bisyllable:
     def jamo(self) -> str:
         return self.syl1.jamo + self.syl2.jamo
 
-    @property
+    @functools.cached_property
     def hangul(self) -> str:
         hangul1 = self.syl1.hangul
         hangul2 = self.syl2.hangul
@@ -139,9 +146,9 @@ class Bisyllable:
             return ""
         return hangul1 + hangul2
 
-    @property
+    @functools.cached_property
     def romanization(self) -> str:
-        return korean_romanizer.Romanizer(self.hangul).romanize()
+        return _romanize(self.hangul)
 
     @property
     def line(self) -> List[str]:
@@ -262,11 +269,21 @@ def main():
                 "shape",
                 "jamo",
                 "hangul",
-                "romanized",
+                "romanization",
             ]
         )
         for entry in _monosyllables():
             tsv_writer.writerow(entry.line)
+    # This probably could be cleverer and focus just on disyllables.
+    lexicon: Set[str] = set()
+    with open(LEXICON, "r") as source:
+        tsv_reader = csv.reader(source, delimiter="\t")
+        for word, _ in tsv_reader:
+            try:
+                lexicon.add(_romanize(word))
+            except (KeyError, AttributeError):  # Raised by the romanizer.
+                pass
+    logging.info(f"{len(lexicon):,} lexicon entries")
     with open(DISYLLABLES, "w") as sink:
         tsv_writer = csv.writer(sink, delimiter="\t")
         tsv_writer.writerow(
@@ -279,12 +296,19 @@ def main():
                 "shape",
                 "jamo",
                 "hangul",
-                "romanized",
+                "romanization",
             ]
         )
+        filtered = 0
         for entry in _disyllables():
+            # Filters based on the lexicon.
+            if entry.romanization and entry.romanization in lexicon:
+                filtered += 1
+                continue
             tsv_writer.writerow(entry.line)
+    logging.info(f"{filtered:,} disyllables filtered")
 
 
 if __name__ == "__main__":
+    logging.basicConfig(format="%(levelname)s: %(message)s", level="INFO")
     main()
