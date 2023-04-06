@@ -9,11 +9,11 @@ according to our assumptions about grammaticality.
 import csv
 import dataclasses
 import itertools
-import unicodedata
 
-from typing import Iterator, Optional, Tuple
+from typing import Iterator, List, Optional, Tuple
 
 import jamo
+import korean_romanizer
 
 # Onsets.
 # /c/ <ㅈ>: more precisely /t͡ɕ/.
@@ -102,6 +102,24 @@ class Monosyllable:
         except TypeError:
             return ""
 
+    # TODO: maybe should be a mixin so I don't have to repeat.
+
+    @property
+    def romanization(self) -> str:
+        return korean_romanizer.Romanizer(self.hangul).romanize()
+
+    @property
+    def line(self) -> List[str]:
+        return [
+            self.onset,
+            self.nucleus,
+            self.coda,
+            self.shape,
+            self.jamo,
+            self.hangul,
+            self.romanization,
+        ]
+
 
 @dataclasses.dataclass
 class Bisyllable:
@@ -121,6 +139,24 @@ class Bisyllable:
             return ""
         return hangul1 + hangul2
 
+    @property
+    def romanization(self) -> str:
+        return korean_romanizer.Romanizer(self.hangul).romanize()
+
+    @property
+    def line(self) -> List[str]:
+        return [
+            self.syl1.onset,
+            self.syl1.nucleus,
+            self.syl2.onset,
+            self.syl2.nucleus,
+            self.syl2.coda,
+            self.shape,
+            self.jamo,
+            self.hangul,
+            self.romanization,
+        ]
+
 
 def _monosyllables() -> Iterator[Monosyllable]:
     # The checks on coda inoculate us against things like /mpip̚/.
@@ -131,7 +167,8 @@ def _monosyllables() -> Iterator[Monosyllable]:
                 if coda.startswith(onset[0]):
                     continue
                 yield Monosyllable(onset, vowel, coda, "CVC")
-    # Cw. I am treating this as part of the nucleus because that's how it's spelled.
+    # Cw. I am treating this as part of the nucleus because that's how it's
+    # spelled.
     for onset in STOP_ONSETS:
         for vowel in FRONT_VOWELS:
             for coda in CODAS:
@@ -172,7 +209,8 @@ def _disyllables() -> Iterator[Bisyllable]:
                     continue
                 syl2 = Monosyllable(onset2, vowel2, coda, shape="CVC")
             yield Bisyllable(syl1, syl2, "CVCVC")
-    # Cw. I am treating this as part of the nucleus because that's how it's spelled.
+    # Cw. I am treating this as part of the nucleus because that's how it's
+    # spelled.
     for onset1, onset2 in itertools.permutations(SIMPLE_ONSETS, 2):
         if onset1.startswith(onset2) or onset2.startswith(onset1):
             continue
@@ -195,9 +233,7 @@ def _disyllables() -> Iterator[Bisyllable]:
                     for coda in CODAS:
                         if coda.startswith(onset2[0]):
                             continue
-                        syl2 = Monosyllable(
-                            onset2, vowel2, coda, shape="CVC"
-                        )
+                        syl2 = Monosyllable(onset2, vowel2, coda, shape="CVC")
                         yield Bisyllable(syl1, syl2, "NCVCVC")
     # Postnasal.
     for stop in STOP_ONSETS:
@@ -211,9 +247,7 @@ def _disyllables() -> Iterator[Bisyllable]:
                     for coda in CODAS:
                         if coda.startswith(onset2[0]):
                             continue
-                        syl2 = Monosyllable(
-                            onset2, vowel2, coda, shape="CVC"
-                        )
+                        syl2 = Monosyllable(onset2, vowel2, coda, shape="CVC")
                         yield Bisyllable(syl1, syl2, "CNVCVC")
 
 
@@ -221,11 +255,18 @@ def main():
     with open(MONOSYLLABLES, "w") as sink:
         tsv_writer = csv.writer(sink, delimiter="\t")
         tsv_writer.writerow(
-            ["onset", "nucleus", "coda", "shape", "jamo", "hangul"]
+            [
+                "onset",
+                "nucleus",
+                "coda",
+                "shape",
+                "jamo",
+                "hangul",
+                "romanized",
+            ]
         )
         for entry in _monosyllables():
-            line = dataclasses.astuple(entry) + (entry.jamo, entry.hangul)
-            tsv_writer.writerow(line)
+            tsv_writer.writerow(entry.line)
     with open(DISYLLABLES, "w") as sink:
         tsv_writer = csv.writer(sink, delimiter="\t")
         tsv_writer.writerow(
@@ -238,20 +279,11 @@ def main():
                 "shape",
                 "jamo",
                 "hangul",
+                "romanized",
             ]
         )
         for entry in _disyllables():
-            line = [
-                entry.syl1.onset,
-                entry.syl1.nucleus,
-                entry.syl2.onset,
-                entry.syl2.nucleus,
-                entry.syl2.coda,
-                entry.shape,
-                entry.jamo,
-                entry.hangul,
-            ]
-            tsv_writer.writerow(line)
+            tsv_writer.writerow(entry.line)
 
 
 if __name__ == "__main__":
