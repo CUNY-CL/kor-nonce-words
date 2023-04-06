@@ -1,4 +1,4 @@
-The lexicon is from [here](https://raw.githubusercontent.com/CUNY-CL/wikipron/master/data/scrape/tsv/kor_hang_narrow.tsv).
+The lexicon is from [here](https://github.com/CUNY-CL/wikipron/tree/master/data/scrape).
 
 To use, run:
 

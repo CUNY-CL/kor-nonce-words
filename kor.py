@@ -303,6 +303,9 @@ def main():
         for entry in _disyllables():
             # Filters based on the lexicon.
             if entry.romanization and entry.romanization in lexicon:
+                logging.info(
+                    f"{entry.hangul} ({entry.romanization}) is lexical"
+                )
                 filtered += 1
                 continue
             tsv_writer.writerow(entry.line)
