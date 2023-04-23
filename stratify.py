@@ -32,6 +32,7 @@ def _proc_file(path: str) -> Iterator[Tuple[str, Any]]:
             del row["lexicality"]
             del row["memo"]
             shape = row["shape"]
+            row["transcription"] = row["onset1"] + row["nucleus1"] + row["onset2"] + row["nucleus2"] + row["coda"]
             yield shape, row
 
 
