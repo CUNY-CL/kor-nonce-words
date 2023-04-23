@@ -4,4 +4,6 @@ To use, run:
 
     curl -O https://raw.githubusercontent.com/CUNY-CL/wikipron/master/data/scrape/tsv/kor_hang_narrow.tsv
     pip install -r requirements.txt
-    ./kor.py
+    ./generate.py
+    # Annotate for lexicality.
+    ./stratify.py

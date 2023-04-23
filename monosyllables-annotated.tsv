@@ -1,0 +1,605 @@
+onset1	nucleus1	onset2	nucleus2	coda	shape	jamo	hangul	romanization	lexicality	memo
+p	i			m	CVC	ㅂㅣᆷ	빔	bim	TRUE	
+p	i			n	CVC	ㅂㅣᆫ	빈	bin	TRUE	
+p	i			ŋ	CVC	ㅂㅣᆼ	빙	bing	TRUE	
+p	i			t̚	CVC	ㅂㅣᆮ	빋	bit	TRUE	
+p	i			k̚	CVC	ㅂㅣᆨ	빅	bik	TRUE	
+p	a			m	CVC	ㅂㅏᆷ	밤	bam	TRUE	
+p	a			n	CVC	ㅂㅏᆫ	반	ban	TRUE	
+p	a			ŋ	CVC	ㅂㅏᆼ	방	bang	TRUE	
+p	a			t̚	CVC	ㅂㅏᆮ	받	bat	TRUE	
+p	a			k̚	CVC	ㅂㅏᆨ	박	bak	TRUE	
+p	o			m	CVC	ㅂㅗᆷ	봄	bom	TRUE	
+p	o			n	CVC	ㅂㅗᆫ	본	bon	TRUE	
+p	o			ŋ	CVC	ㅂㅗᆼ	봉	bong	TRUE	
+p	o			t̚	CVC	ㅂㅗᆮ	볻	bot	TRUE	
+p	o			k̚	CVC	ㅂㅗᆨ	복	bok	TRUE	
+p	u			m	CVC	ㅂㅜᆷ	붐	bum	TRUE	
+p	u			n	CVC	ㅂㅜᆫ	분	bun	TRUE	
+p	u			ŋ	CVC	ㅂㅜᆼ	붕	bung	TRUE	
+p	u			t̚	CVC	ㅂㅜᆮ	붇	but	TRUE	
+p	u			k̚	CVC	ㅂㅜᆨ	북	buk	TRUE	
+t	i			m	CVC	ㄷㅣᆷ	딤	dim	TRUE	
+t	i			n	CVC	ㄷㅣᆫ	딘	din	FALSE	
+t	i			ŋ	CVC	ㄷㅣᆼ	딩	ding	TRUE	
+t	i			p̚	CVC	ㄷㅣᆸ	딥	dip	TRUE	
+t	i			k̚	CVC	ㄷㅣᆨ	딕	dik	TRUE	
+t	a			m	CVC	ㄷㅏᆷ	담	dam	TRUE	
+t	a			n	CVC	ㄷㅏᆫ	단	dan	TRUE	
+t	a			ŋ	CVC	ㄷㅏᆼ	당	dang	TRUE	
+t	a			p̚	CVC	ㄷㅏᆸ	답	dap	TRUE	
+t	a			k̚	CVC	ㄷㅏᆨ	닥	dak	TRUE	
+t	o			m	CVC	ㄷㅗᆷ	돔	dom	TRUE	
+t	o			n	CVC	ㄷㅗᆫ	돈	don	TRUE	
+t	o			ŋ	CVC	ㄷㅗᆼ	동	dong	TRUE	
+t	o			p̚	CVC	ㄷㅗᆸ	돕	dop	TRUE	
+t	o			k̚	CVC	ㄷㅗᆨ	독	dok	TRUE	
+t	u			m	CVC	ㄷㅜᆷ	둠	dum	TRUE	
+t	u			n	CVC	ㄷㅜᆫ	둔	dun	TRUE	
+t	u			ŋ	CVC	ㄷㅜᆼ	둥	dung	TRUE	
+t	u			p̚	CVC	ㄷㅜᆸ	둡	dup	FALSE	
+t	u			k̚	CVC	ㄷㅜᆨ	둑	duk	TRUE	
+c	i			m	CVC	ㅈㅣᆷ	짐	jim	TRUE	
+c	i			n	CVC	ㅈㅣᆫ	진	jin	TRUE	
+c	i			ŋ	CVC	ㅈㅣᆼ	징	jing	TRUE	
+c	i			p̚	CVC	ㅈㅣᆸ	집	jip	TRUE	
+c	i			t̚	CVC	ㅈㅣᆮ	짇	jit	TRUE	
+c	i			k̚	CVC	ㅈㅣᆨ	직	jik	TRUE	
+c	a			m	CVC	ㅈㅏᆷ	잠	jam	TRUE	
+c	a			n	CVC	ㅈㅏᆫ	잔	jan	TRUE	
+c	a			ŋ	CVC	ㅈㅏᆼ	장	jang	TRUE	
+c	a			p̚	CVC	ㅈㅏᆸ	잡	jap	TRUE	
+c	a			t̚	CVC	ㅈㅏᆮ	잗	jat	TRUE	
+c	a			k̚	CVC	ㅈㅏᆨ	작	jak	TRUE	
+c	o			m	CVC	ㅈㅗᆷ	좀	jom	TRUE	
+c	o			n	CVC	ㅈㅗᆫ	존	jon	TRUE	
+c	o			ŋ	CVC	ㅈㅗᆼ	종	jong	TRUE	
+c	o			p̚	CVC	ㅈㅗᆸ	좁	jop	TRUE	
+c	o			t̚	CVC	ㅈㅗᆮ	졷	jot	TRUE	
+c	o			k̚	CVC	ㅈㅗᆨ	족	jok	TRUE	
+c	u			m	CVC	ㅈㅜᆷ	줌	jum	TRUE	
+c	u			n	CVC	ㅈㅜᆫ	준	jun	TRUE	
+c	u			ŋ	CVC	ㅈㅜᆼ	중	jung	TRUE	
+c	u			p̚	CVC	ㅈㅜᆸ	줍	jup	TRUE	
+c	u			t̚	CVC	ㅈㅜᆮ	줃	jut	FALSE	
+c	u			k̚	CVC	ㅈㅜᆨ	죽	juk	TRUE	
+k	i			m	CVC	ㄱㅣᆷ	김	gim	TRUE	
+k	i			n	CVC	ㄱㅣᆫ	긴	gin	TRUE	
+k	i			ŋ	CVC	ㄱㅣᆼ	깅	ging	TRUE	
+k	i			p̚	CVC	ㄱㅣᆸ	깁	gip	TRUE	
+k	i			t̚	CVC	ㄱㅣᆮ	긷	git	TRUE	
+k	a			m	CVC	ㄱㅏᆷ	감	gam	TRUE	
+k	a			n	CVC	ㄱㅏᆫ	간	gan	TRUE	
+k	a			ŋ	CVC	ㄱㅏᆼ	강	gang	TRUE	
+k	a			p̚	CVC	ㄱㅏᆸ	갑	gap	TRUE	
+k	a			t̚	CVC	ㄱㅏᆮ	갇	gat	TRUE	
+k	o			m	CVC	ㄱㅗᆷ	곰	gom	TRUE	
+k	o			n	CVC	ㄱㅗᆫ	곤	gon	TRUE	
+k	o			ŋ	CVC	ㄱㅗᆼ	공	gong	TRUE	
+k	o			p̚	CVC	ㄱㅗᆸ	곱	gop	TRUE	
+k	o			t̚	CVC	ㄱㅗᆮ	곧	got	TRUE	
+k	u			m	CVC	ㄱㅜᆷ	굼	gum	TRUE	
+k	u			n	CVC	ㄱㅜᆫ	군	gun	TRUE	
+k	u			ŋ	CVC	ㄱㅜᆼ	궁	gung	TRUE	
+k	u			p̚	CVC	ㄱㅜᆸ	굽	gup	TRUE	
+k	u			t̚	CVC	ㄱㅜᆮ	굳	gut	TRUE	
+pʰ	i			m	CVC	ㅍㅣᆷ	핌	pim	TRUE	
+pʰ	i			n	CVC	ㅍㅣᆫ	핀	pin	TRUE	
+pʰ	i			ŋ	CVC	ㅍㅣᆼ	핑	ping	TRUE	
+pʰ	i			t̚	CVC	ㅍㅣᆮ	핃	pit	TRUE	
+pʰ	i			k̚	CVC	ㅍㅣᆨ	픽	pik	TRUE	
+pʰ	a			m	CVC	ㅍㅏᆷ	팜	pam	TRUE	
+pʰ	a			n	CVC	ㅍㅏᆫ	판	pan	TRUE	
+pʰ	a			ŋ	CVC	ㅍㅏᆼ	팡	pang	TRUE	
+pʰ	a			t̚	CVC	ㅍㅏᆮ	팓	pat	TRUE	
+pʰ	a			k̚	CVC	ㅍㅏᆨ	팍	pak	TRUE	
+pʰ	o			m	CVC	ㅍㅗᆷ	폼	pom	TRUE	
+pʰ	o			n	CVC	ㅍㅗᆫ	폰	pon	TRUE	
+pʰ	o			ŋ	CVC	ㅍㅗᆼ	퐁	pong	TRUE	
+pʰ	o			t̚	CVC	ㅍㅗᆮ	폳	pot	TRUE	
+pʰ	o			k̚	CVC	ㅍㅗᆨ	폭	pok	TRUE	
+pʰ	u			m	CVC	ㅍㅜᆷ	품	pum	TRUE	
+pʰ	u			n	CVC	ㅍㅜᆫ	푼	pun	TRUE	
+pʰ	u			ŋ	CVC	ㅍㅜᆼ	풍	pung	TRUE	
+pʰ	u			t̚	CVC	ㅍㅜᆮ	푿	put	TRUE	
+pʰ	u			k̚	CVC	ㅍㅜᆨ	푹	puk	TRUE	
+tʰ	i			m	CVC	ㅌㅣᆷ	팀	tim	TRUE	
+tʰ	i			n	CVC	ㅌㅣᆫ	틴	tin	TRUE	
+tʰ	i			ŋ	CVC	ㅌㅣᆼ	팅	ting	TRUE	
+tʰ	i			p̚	CVC	ㅌㅣᆸ	팁	tip	TRUE	
+tʰ	i			k̚	CVC	ㅌㅣᆨ	틱	tik	TRUE	
+tʰ	a			m	CVC	ㅌㅏᆷ	탐	tam	TRUE	
+tʰ	a			n	CVC	ㅌㅏᆫ	탄	tan	TRUE	
+tʰ	a			ŋ	CVC	ㅌㅏᆼ	탕	tang	TRUE	
+tʰ	a			p̚	CVC	ㅌㅏᆸ	탑	tap	TRUE	
+tʰ	a			k̚	CVC	ㅌㅏᆨ	탁	tak	TRUE	
+tʰ	o			m	CVC	ㅌㅗᆷ	톰	tom	TRUE	
+tʰ	o			n	CVC	ㅌㅗᆫ	톤	ton	TRUE	
+tʰ	o			ŋ	CVC	ㅌㅗᆼ	통	tong	TRUE	
+tʰ	o			p̚	CVC	ㅌㅗᆸ	톱	top	TRUE	
+tʰ	o			k̚	CVC	ㅌㅗᆨ	톡	tok	TRUE	
+tʰ	u			m	CVC	ㅌㅜᆷ	툼	tum	FALSE	
+tʰ	u			n	CVC	ㅌㅜᆫ	툰	tun	TRUE	
+tʰ	u			ŋ	CVC	ㅌㅜᆼ	퉁	tung	TRUE	
+tʰ	u			p̚	CVC	ㅌㅜᆸ	툽	tup	TRUE	
+tʰ	u			k̚	CVC	ㅌㅜᆨ	툭	tuk	TRUE	
+cʰ	i			m	CVC	ㅊㅣᆷ	침	chim	TRUE	
+cʰ	i			n	CVC	ㅊㅣᆫ	친	chin	TRUE	
+cʰ	i			ŋ	CVC	ㅊㅣᆼ	칭	ching	TRUE	
+cʰ	i			p̚	CVC	ㅊㅣᆸ	칩	chip	TRUE	
+cʰ	i			t̚	CVC	ㅊㅣᆮ	칟	chit	TRUE	
+cʰ	i			k̚	CVC	ㅊㅣᆨ	칙	chik	TRUE	
+cʰ	a			m	CVC	ㅊㅏᆷ	참	cham	TRUE	
+cʰ	a			n	CVC	ㅊㅏᆫ	찬	chan	TRUE	
+cʰ	a			ŋ	CVC	ㅊㅏᆼ	창	chang	TRUE	
+cʰ	a			p̚	CVC	ㅊㅏᆸ	찹	chap	TRUE	
+cʰ	a			t̚	CVC	ㅊㅏᆮ	찯	chat	TRUE	
+cʰ	a			k̚	CVC	ㅊㅏᆨ	착	chak	TRUE	
+cʰ	o			m	CVC	ㅊㅗᆷ	촘	chom	TRUE	
+cʰ	o			n	CVC	ㅊㅗᆫ	촌	chon	TRUE	
+cʰ	o			ŋ	CVC	ㅊㅗᆼ	총	chong	TRUE	
+cʰ	o			p̚	CVC	ㅊㅗᆸ	촙	chop	TRUE	
+cʰ	o			t̚	CVC	ㅊㅗᆮ	촏	chot	TRUE	
+cʰ	o			k̚	CVC	ㅊㅗᆨ	촉	chok	TRUE	
+cʰ	u			m	CVC	ㅊㅜᆷ	춤	chum	TRUE	
+cʰ	u			n	CVC	ㅊㅜᆫ	춘	chun	TRUE	
+cʰ	u			ŋ	CVC	ㅊㅜᆼ	충	chung	TRUE	
+cʰ	u			p̚	CVC	ㅊㅜᆸ	춥	chup	TRUE	
+cʰ	u			t̚	CVC	ㅊㅜᆮ	춛	chut	FALSE	
+cʰ	u			k̚	CVC	ㅊㅜᆨ	축	chuk	TRUE	
+kʰ	i			m	CVC	ㅋㅣᆷ	킴	kim	TRUE	
+kʰ	i			n	CVC	ㅋㅣᆫ	킨	kin	FALSE	
+kʰ	i			ŋ	CVC	ㅋㅣᆼ	킹	king	TRUE	
+kʰ	i			p̚	CVC	ㅋㅣᆸ	킵	kip	TRUE	
+kʰ	i			t̚	CVC	ㅋㅣᆮ	킫	kit	TRUE	
+kʰ	a			m	CVC	ㅋㅏᆷ	캄	kam	TRUE	
+kʰ	a			n	CVC	ㅋㅏᆫ	칸	kan	TRUE	
+kʰ	a			ŋ	CVC	ㅋㅏᆼ	캉	kang	TRUE	
+kʰ	a			p̚	CVC	ㅋㅏᆸ	캅	kap	TRUE	
+kʰ	a			t̚	CVC	ㅋㅏᆮ	칻	kat	TRUE	
+kʰ	o			m	CVC	ㅋㅗᆷ	콤	kom	TRUE	
+kʰ	o			n	CVC	ㅋㅗᆫ	콘	kon	TRUE	
+kʰ	o			ŋ	CVC	ㅋㅗᆼ	콩	kong	TRUE	
+kʰ	o			p̚	CVC	ㅋㅗᆸ	콥	kop	TRUE	
+kʰ	o			t̚	CVC	ㅋㅗᆮ	콛	kot	TRUE	
+kʰ	u			m	CVC	ㅋㅜᆷ	쿰	kum	TRUE	
+kʰ	u			n	CVC	ㅋㅜᆫ	쿤	kun	FALSE	
+kʰ	u			ŋ	CVC	ㅋㅜᆼ	쿵	kung	TRUE	
+kʰ	u			p̚	CVC	ㅋㅜᆸ	쿱	kup	FALSE	
+kʰ	u			t̚	CVC	ㅋㅜᆮ	쿧	kut	FALSE	
+s	i			m	CVC	ᄉㅣᆷ	심	sim	TRUE	
+s	i			n	CVC	ᄉㅣᆫ	신	sin	TRUE	
+s	i			ŋ	CVC	ᄉㅣᆼ	싱	sing	TRUE	
+s	i			p̚	CVC	ᄉㅣᆸ	십	sip	TRUE	
+s	i			t̚	CVC	ᄉㅣᆮ	싣	sit	TRUE	
+s	i			k̚	CVC	ᄉㅣᆨ	식	sik	TRUE	
+s	a			m	CVC	ᄉㅏᆷ	삼	sam	TRUE	
+s	a			n	CVC	ᄉㅏᆫ	산	san	TRUE	
+s	a			ŋ	CVC	ᄉㅏᆼ	상	sang	TRUE	
+s	a			p̚	CVC	ᄉㅏᆸ	삽	sap	TRUE	
+s	a			t̚	CVC	ᄉㅏᆮ	삳	sat	TRUE	
+s	a			k̚	CVC	ᄉㅏᆨ	삭	sak	TRUE	
+s	o			m	CVC	ᄉㅗᆷ	솜	som	TRUE	
+s	o			n	CVC	ᄉㅗᆫ	손	son	TRUE	
+s	o			ŋ	CVC	ᄉㅗᆼ	송	song	TRUE	
+s	o			p̚	CVC	ᄉㅗᆸ	솝	sop	TRUE	
+s	o			t̚	CVC	ᄉㅗᆮ	솓	sot	TRUE	
+s	o			k̚	CVC	ᄉㅗᆨ	속	sok	TRUE	
+s	u			m	CVC	ᄉㅜᆷ	숨	sum	TRUE	
+s	u			n	CVC	ᄉㅜᆫ	순	sun	TRUE	
+s	u			ŋ	CVC	ᄉㅜᆼ	숭	sung	TRUE	
+s	u			p̚	CVC	ᄉㅜᆸ	숩	sup	TRUE	
+s	u			t̚	CVC	ᄉㅜᆮ	숟	sut	TRUE	
+s	u			k̚	CVC	ᄉㅜᆨ	숙	suk	TRUE	
+m	i			n	CVC	ᄆㅣᆫ	민	min	TRUE	
+m	i			ŋ	CVC	ᄆㅣᆼ	밍	ming	TRUE	
+m	i			p̚	CVC	ᄆㅣᆸ	밉	mip	FALSE	
+m	i			t̚	CVC	ᄆㅣᆮ	믿	mit	TRUE	
+m	i			k̚	CVC	ᄆㅣᆨ	믹	mik	TRUE	
+m	a			n	CVC	ᄆㅏᆫ	만	man	TRUE	
+m	a			ŋ	CVC	ᄆㅏᆼ	망	mang	TRUE	
+m	a			p̚	CVC	ᄆㅏᆸ	맙	map	TRUE	
+m	a			t̚	CVC	ᄆㅏᆮ	맏	mat	TRUE	
+m	a			k̚	CVC	ᄆㅏᆨ	막	mak	TRUE	
+m	o			n	CVC	ᄆㅗᆫ	몬	mon	TRUE	
+m	o			ŋ	CVC	ᄆㅗᆼ	몽	mong	TRUE	
+m	o			p̚	CVC	ᄆㅗᆸ	몹	mop	TRUE	
+m	o			t̚	CVC	ᄆㅗᆮ	몯	mot	TRUE	
+m	o			k̚	CVC	ᄆㅗᆨ	목	mok	TRUE	
+m	u			n	CVC	ᄆㅜᆫ	문	mun	TRUE	
+m	u			ŋ	CVC	ᄆㅜᆼ	뭉	mung	TRUE	
+m	u			p̚	CVC	ᄆㅜᆸ	뭅	mup	FALSE	
+m	u			t̚	CVC	ᄆㅜᆮ	묻	mut	TRUE	
+m	u			k̚	CVC	ᄆㅜᆨ	묵	muk	TRUE	
+n	i			m	CVC	ᄂㅣᆷ	님	nim	TRUE	
+n	i			ŋ	CVC	ᄂㅣᆼ	닝	ning	TRUE	
+n	i			p̚	CVC	ᄂㅣᆸ	닙	nip	TRUE	
+n	i			t̚	CVC	ᄂㅣᆮ	닏	nit	TRUE	
+n	i			k̚	CVC	ᄂㅣᆨ	닉	nik	TRUE	
+n	a			m	CVC	ᄂㅏᆷ	남	nam	TRUE	
+n	a			ŋ	CVC	ᄂㅏᆼ	낭	nang	TRUE	
+n	a			p̚	CVC	ᄂㅏᆸ	납	nap	TRUE	
+n	a			t̚	CVC	ᄂㅏᆮ	낟	nat	TRUE	
+n	a			k̚	CVC	ᄂㅏᆨ	낙	nak	TRUE	
+n	o			m	CVC	ᄂㅗᆷ	놈	nom	TRUE	
+n	o			ŋ	CVC	ᄂㅗᆼ	농	nong	TRUE	
+n	o			p̚	CVC	ᄂㅗᆸ	놉	nop	TRUE	
+n	o			t̚	CVC	ᄂㅗᆮ	녿	not	TRUE	
+n	o			k̚	CVC	ᄂㅗᆨ	녹	nok	TRUE	
+n	u			m	CVC	ᄂㅜᆷ	눔	num	TRUE	
+n	u			ŋ	CVC	ᄂㅜᆼ	눙	nung	TRUE	
+n	u			p̚	CVC	ᄂㅜᆸ	눕	nup	TRUE	
+n	u			t̚	CVC	ᄂㅜᆮ	눋	nut	TRUE	
+n	u			k̚	CVC	ᄂㅜᆨ	눅	nuk	TRUE	
+p	wi			m	CwVC	ㅂㅟᆷ	뷤	bwim	FALSE	
+p	wi			n	CwVC	ㅂㅟᆫ	뷘	bwin	TRUE	
+p	wi			ŋ	CwVC	ㅂㅟᆼ	뷩	bwing	FALSE	
+p	wi			t̚	CwVC	ㅂㅟᆮ	뷛	bwit	FALSE	
+p	wi			k̚	CwVC	ㅂㅟᆨ	뷕	bwik	FALSE	
+p	wa			m	CwVC	ㅂㅘᆷ	봠	bwam	FALSE	
+p	wa			n	CwVC	ㅂㅘᆫ	봔	bwan	FALSE	
+p	wa			ŋ	CwVC	ㅂㅘᆼ	봥	bwang	TRUE	
+p	wa			t̚	CwVC	ㅂㅘᆮ	봗	bwat	TRUE	
+p	wa			k̚	CwVC	ㅂㅘᆨ	봑	bwak	FALSE	
+t	wi			m	CwVC	ㄷㅟᆷ	뒴	dwim	TRUE	
+t	wi			n	CwVC	ㄷㅟᆫ	뒨	dwin	FALSE	
+t	wi			ŋ	CwVC	ㄷㅟᆼ	뒹	dwing	TRUE	
+t	wi			p̚	CwVC	ㄷㅟᆸ	뒵	dwip	FALSE	
+t	wi			k̚	CwVC	ㄷㅟᆨ	뒥	dwik	FALSE	
+t	wa			m	CwVC	ㄷㅘᆷ	돰	dwam	FALSE	
+t	wa			n	CwVC	ㄷㅘᆫ	돤	dwan	FALSE	
+t	wa			ŋ	CwVC	ㄷㅘᆼ	돵	dwang	FALSE	
+t	wa			p̚	CwVC	ㄷㅘᆸ	돱	dwap	FALSE	
+t	wa			k̚	CwVC	ㄷㅘᆨ	돡	dwak	FALSE	
+c	wi			m	CwVC	ㅈㅟᆷ	쥠	jwim	TRUE	
+c	wi			n	CwVC	ㅈㅟᆫ	쥔	jwin	TRUE	
+c	wi			ŋ	CwVC	ㅈㅟᆼ	쥥	jwing	TRUE	
+c	wi			p̚	CwVC	ㅈㅟᆸ	쥡	jwip	FALSE	
+c	wi			t̚	CwVC	ㅈㅟᆮ	쥗	jwit	FALSE	
+c	wi			k̚	CwVC	ㅈㅟᆨ	쥑	jwik	TRUE	
+c	wa			m	CwVC	ㅈㅘᆷ	좜	jwam	FALSE	
+c	wa			n	CwVC	ㅈㅘᆫ	좐	jwan	TRUE	
+c	wa			ŋ	CwVC	ㅈㅘᆼ	좡	jwang	FALSE	
+c	wa			p̚	CwVC	ㅈㅘᆸ	좝	jwap	TRUE	
+c	wa			t̚	CwVC	ㅈㅘᆮ	좓	jwat	FALSE	
+c	wa			k̚	CwVC	ㅈㅘᆨ	좍	jwak	TRUE	
+k	wi			m	CwVC	ㄱㅟᆷ	귐	gwim	TRUE	
+k	wi			n	CwVC	ㄱㅟᆫ	귄	gwin	TRUE	
+k	wi			ŋ	CwVC	ㄱㅟᆼ	귕	gwing	TRUE	
+k	wi			p̚	CwVC	ㄱㅟᆸ	귑	gwip	FALSE	
+k	wi			t̚	CwVC	ㄱㅟᆮ	귇	gwit	TRUE	
+k	wa			m	CwVC	ㄱㅘᆷ	괌	gwam	TRUE	
+k	wa			n	CwVC	ㄱㅘᆫ	관	gwan	TRUE	
+k	wa			ŋ	CwVC	ㄱㅘᆼ	광	gwang	TRUE	
+k	wa			p̚	CwVC	ㄱㅘᆸ	괍	gwap	FALSE	
+k	wa			t̚	CwVC	ㄱㅘᆮ	괃	gwat	FALSE	
+pʰ	wi			m	CwVC	ㅍㅟᆷ	퓜	pwim	FALSE	
+pʰ	wi			n	CwVC	ㅍㅟᆫ	퓐	pwin	FALSE	
+pʰ	wi			ŋ	CwVC	ㅍㅟᆼ	퓡	pwing	FALSE	
+pʰ	wi			t̚	CwVC	ㅍㅟᆮ	퓓	pwit	FALSE	
+pʰ	wi			k̚	CwVC	ㅍㅟᆨ	퓍	pwik	FALSE	
+pʰ	wa			m	CwVC	ㅍㅘᆷ	퐘	pwam	FALSE	
+pʰ	wa			n	CwVC	ㅍㅘᆫ	퐌	pwan	FALSE	
+pʰ	wa			ŋ	CwVC	ㅍㅘᆼ	퐝	pwang	TRUE	
+pʰ	wa			t̚	CwVC	ㅍㅘᆮ	퐏	pwat	FALSE	
+pʰ	wa			k̚	CwVC	ㅍㅘᆨ	퐉	pwak	FALSE	
+tʰ	wi			m	CwVC	ㅌㅟᆷ	튐	twim	TRUE	
+tʰ	wi			n	CwVC	ㅌㅟᆫ	튄	twin	TRUE	
+tʰ	wi			ŋ	CwVC	ㅌㅟᆼ	튕	twing	FALSE	
+tʰ	wi			p̚	CwVC	ㅌㅟᆸ	튑	twip	FALSE	
+tʰ	wi			k̚	CwVC	ㅌㅟᆨ	튁	twik	FALSE	
+tʰ	wa			m	CwVC	ㅌㅘᆷ	퇌	twam	FALSE	
+tʰ	wa			n	CwVC	ㅌㅘᆫ	퇀	twan	FALSE	
+tʰ	wa			ŋ	CwVC	ㅌㅘᆼ	퇑	twang	FALSE	
+tʰ	wa			p̚	CwVC	ㅌㅘᆸ	퇍	twap	FALSE	
+tʰ	wa			k̚	CwVC	ㅌㅘᆨ	톽	twak	FALSE	
+cʰ	wi			m	CwVC	ㅊㅟᆷ	췸	chwim	FALSE	
+cʰ	wi			n	CwVC	ㅊㅟᆫ	췬	chwin	TRUE	
+cʰ	wi			ŋ	CwVC	ㅊㅟᆼ	췽	chwing	FALSE	
+cʰ	wi			p̚	CwVC	ㅊㅟᆸ	췹	chwip	FALSE	
+cʰ	wi			t̚	CwVC	ㅊㅟᆮ	췯	chwit	FALSE	
+cʰ	wi			k̚	CwVC	ㅊㅟᆨ	췩	chwik	FALSE	
+cʰ	wa			m	CwVC	ㅊㅘᆷ	촴	chwam	FALSE	
+cʰ	wa			n	CwVC	ㅊㅘᆫ	촨	chwan	TRUE	
+cʰ	wa			ŋ	CwVC	ㅊㅘᆼ	촹	chwang	FALSE	
+cʰ	wa			p̚	CwVC	ㅊㅘᆸ	촵	chwap	FALSE	
+cʰ	wa			t̚	CwVC	ㅊㅘᆮ	촫	chwat	FALSE	
+cʰ	wa			k̚	CwVC	ㅊㅘᆨ	촥	chwak	FALSE	
+kʰ	wi			m	CwVC	ㅋㅟᆷ	큄	kwim	FALSE	
+kʰ	wi			n	CwVC	ㅋㅟᆫ	퀸	kwin	TRUE	
+kʰ	wi			ŋ	CwVC	ㅋㅟᆼ	큉	kwing	FALSE	
+kʰ	wi			p̚	CwVC	ㅋㅟᆸ	큅	kwip	FALSE	
+kʰ	wi			t̚	CwVC	ㅋㅟᆮ	퀻	kwit	FALSE	
+kʰ	wa			m	CwVC	ㅋㅘᆷ	쾀	kwam	FALSE	
+kʰ	wa			n	CwVC	ㅋㅘᆫ	콴	kwan	FALSE	
+kʰ	wa			ŋ	CwVC	ㅋㅘᆼ	쾅	kwang	TRUE	
+kʰ	wa			p̚	CwVC	ㅋㅘᆸ	쾁	kwap	FALSE	
+kʰ	wa			t̚	CwVC	ㅋㅘᆮ	콷	kwat	FALSE	
+mp	i			t̚	NCVC	ᄆㅂㅣᆮ			FALSE	
+mp	i			k̚	NCVC	ᄆㅂㅣᆨ			FALSE	
+mp	a			t̚	NCVC	ᄆㅂㅏᆮ			FALSE	
+mp	a			k̚	NCVC	ᄆㅂㅏᆨ			FALSE	
+mp	o			t̚	NCVC	ᄆㅂㅗᆮ			FALSE	
+mp	o			k̚	NCVC	ᄆㅂㅗᆨ			FALSE	
+mp	u			t̚	NCVC	ᄆㅂㅜᆮ			FALSE	
+mp	u			k̚	NCVC	ᄆㅂㅜᆨ			FALSE	
+np	i			t̚	NCVC	ᄂㅂㅣᆮ			FALSE	
+np	i			k̚	NCVC	ᄂㅂㅣᆨ			FALSE	
+np	a			t̚	NCVC	ᄂㅂㅏᆮ			FALSE	
+np	a			k̚	NCVC	ᄂㅂㅏᆨ			FALSE	
+np	o			t̚	NCVC	ᄂㅂㅗᆮ			FALSE	
+np	o			k̚	NCVC	ᄂㅂㅗᆨ			FALSE	
+np	u			t̚	NCVC	ᄂㅂㅜᆮ			FALSE	
+np	u			k̚	NCVC	ᄂㅂㅜᆨ			FALSE	
+mt	i			p̚	NCVC	ᄆㄷㅣᆸ			FALSE	
+mt	i			k̚	NCVC	ᄆㄷㅣᆨ			FALSE	
+mt	a			p̚	NCVC	ᄆㄷㅏᆸ			FALSE	
+mt	a			k̚	NCVC	ᄆㄷㅏᆨ			FALSE	
+mt	o			p̚	NCVC	ᄆㄷㅗᆸ			FALSE	
+mt	o			k̚	NCVC	ᄆㄷㅗᆨ			FALSE	
+mt	u			p̚	NCVC	ᄆㄷㅜᆸ			FALSE	
+mt	u			k̚	NCVC	ᄆㄷㅜᆨ			FALSE	
+nt	i			p̚	NCVC	ᄂㄷㅣᆸ			FALSE	
+nt	i			k̚	NCVC	ᄂㄷㅣᆨ			FALSE	
+nt	a			p̚	NCVC	ᄂㄷㅏᆸ			FALSE	
+nt	a			k̚	NCVC	ᄂㄷㅏᆨ			FALSE	
+nt	o			p̚	NCVC	ᄂㄷㅗᆸ			FALSE	
+nt	o			k̚	NCVC	ᄂㄷㅗᆨ			FALSE	
+nt	u			p̚	NCVC	ᄂㄷㅜᆸ			FALSE	
+nt	u			k̚	NCVC	ᄂㄷㅜᆨ			FALSE	
+mc	i			p̚	NCVC	ᄆㅈㅣᆸ			FALSE	
+mc	i			t̚	NCVC	ᄆㅈㅣᆮ			FALSE	
+mc	i			k̚	NCVC	ᄆㅈㅣᆨ			FALSE	
+mc	a			p̚	NCVC	ᄆㅈㅏᆸ			FALSE	
+mc	a			t̚	NCVC	ᄆㅈㅏᆮ			FALSE	
+mc	a			k̚	NCVC	ᄆㅈㅏᆨ			FALSE	
+mc	o			p̚	NCVC	ᄆㅈㅗᆸ			FALSE	
+mc	o			t̚	NCVC	ᄆㅈㅗᆮ			FALSE	
+mc	o			k̚	NCVC	ᄆㅈㅗᆨ			FALSE	
+mc	u			p̚	NCVC	ᄆㅈㅜᆸ			FALSE	
+mc	u			t̚	NCVC	ᄆㅈㅜᆮ			FALSE	
+mc	u			k̚	NCVC	ᄆㅈㅜᆨ			FALSE	
+nc	i			p̚	NCVC	ᄂㅈㅣᆸ			FALSE	
+nc	i			t̚	NCVC	ᄂㅈㅣᆮ			FALSE	
+nc	i			k̚	NCVC	ᄂㅈㅣᆨ			FALSE	
+nc	a			p̚	NCVC	ᄂㅈㅏᆸ			FALSE	
+nc	a			t̚	NCVC	ᄂㅈㅏᆮ			FALSE	
+nc	a			k̚	NCVC	ᄂㅈㅏᆨ			FALSE	
+nc	o			p̚	NCVC	ᄂㅈㅗᆸ			FALSE	
+nc	o			t̚	NCVC	ᄂㅈㅗᆮ			FALSE	
+nc	o			k̚	NCVC	ᄂㅈㅗᆨ			FALSE	
+nc	u			p̚	NCVC	ᄂㅈㅜᆸ			FALSE	
+nc	u			t̚	NCVC	ᄂㅈㅜᆮ			FALSE	
+nc	u			k̚	NCVC	ᄂㅈㅜᆨ			FALSE	
+mk	i			p̚	NCVC	ᄆㄱㅣᆸ			FALSE	
+mk	i			t̚	NCVC	ᄆㄱㅣᆮ			FALSE	
+mk	a			p̚	NCVC	ᄆㄱㅏᆸ			FALSE	
+mk	a			t̚	NCVC	ᄆㄱㅏᆮ			FALSE	
+mk	o			p̚	NCVC	ᄆㄱㅗᆸ			FALSE	
+mk	o			t̚	NCVC	ᄆㄱㅗᆮ			FALSE	
+mk	u			p̚	NCVC	ᄆㄱㅜᆸ			FALSE	
+mk	u			t̚	NCVC	ᄆㄱㅜᆮ			FALSE	
+nk	i			p̚	NCVC	ᄂㄱㅣᆸ			FALSE	
+nk	i			t̚	NCVC	ᄂㄱㅣᆮ			FALSE	
+nk	a			p̚	NCVC	ᄂㄱㅏᆸ			FALSE	
+nk	a			t̚	NCVC	ᄂㄱㅏᆮ			FALSE	
+nk	o			p̚	NCVC	ᄂㄱㅗᆸ			FALSE	
+nk	o			t̚	NCVC	ᄂㄱㅗᆮ			FALSE	
+nk	u			p̚	NCVC	ᄂㄱㅜᆸ			FALSE	
+nk	u			t̚	NCVC	ᄂㄱㅜᆮ			FALSE	
+mpʰ	i			t̚	NCVC	ᄆㅍㅣᆮ			FALSE	
+mpʰ	i			k̚	NCVC	ᄆㅍㅣᆨ			FALSE	
+mpʰ	a			t̚	NCVC	ᄆㅍㅏᆮ			FALSE	
+mpʰ	a			k̚	NCVC	ᄆㅍㅏᆨ			FALSE	
+mpʰ	o			t̚	NCVC	ᄆㅍㅗᆮ			FALSE	
+mpʰ	o			k̚	NCVC	ᄆㅍㅗᆨ			FALSE	
+mpʰ	u			t̚	NCVC	ᄆㅍㅜᆮ			FALSE	
+mpʰ	u			k̚	NCVC	ᄆㅍㅜᆨ			FALSE	
+npʰ	i			t̚	NCVC	ᄂㅍㅣᆮ			FALSE	
+npʰ	i			k̚	NCVC	ᄂㅍㅣᆨ			FALSE	
+npʰ	a			t̚	NCVC	ᄂㅍㅏᆮ			FALSE	
+npʰ	a			k̚	NCVC	ᄂㅍㅏᆨ			FALSE	
+npʰ	o			t̚	NCVC	ᄂㅍㅗᆮ			FALSE	
+npʰ	o			k̚	NCVC	ᄂㅍㅗᆨ			FALSE	
+npʰ	u			t̚	NCVC	ᄂㅍㅜᆮ			FALSE	
+npʰ	u			k̚	NCVC	ᄂㅍㅜᆨ			FALSE	
+mtʰ	i			p̚	NCVC	ᄆㅌㅣᆸ			FALSE	
+mtʰ	i			k̚	NCVC	ᄆㅌㅣᆨ			FALSE	
+mtʰ	a			p̚	NCVC	ᄆㅌㅏᆸ			FALSE	
+mtʰ	a			k̚	NCVC	ᄆㅌㅏᆨ			FALSE	
+mtʰ	o			p̚	NCVC	ᄆㅌㅗᆸ			FALSE	
+mtʰ	o			k̚	NCVC	ᄆㅌㅗᆨ			FALSE	
+mtʰ	u			p̚	NCVC	ᄆㅌㅜᆸ			FALSE	
+mtʰ	u			k̚	NCVC	ᄆㅌㅜᆨ			FALSE	
+ntʰ	i			p̚	NCVC	ᄂㅌㅣᆸ			FALSE	
+ntʰ	i			k̚	NCVC	ᄂㅌㅣᆨ			FALSE	
+ntʰ	a			p̚	NCVC	ᄂㅌㅏᆸ			FALSE	
+ntʰ	a			k̚	NCVC	ᄂㅌㅏᆨ			FALSE	
+ntʰ	o			p̚	NCVC	ᄂㅌㅗᆸ			FALSE	
+ntʰ	o			k̚	NCVC	ᄂㅌㅗᆨ			FALSE	
+ntʰ	u			p̚	NCVC	ᄂㅌㅜᆸ			FALSE	
+ntʰ	u			k̚	NCVC	ᄂㅌㅜᆨ			FALSE	
+mcʰ	i			p̚	NCVC	ᄆㅊㅣᆸ			FALSE	
+mcʰ	i			t̚	NCVC	ᄆㅊㅣᆮ			FALSE	
+mcʰ	i			k̚	NCVC	ᄆㅊㅣᆨ			FALSE	
+mcʰ	a			p̚	NCVC	ᄆㅊㅏᆸ			FALSE	
+mcʰ	a			t̚	NCVC	ᄆㅊㅏᆮ			FALSE	
+mcʰ	a			k̚	NCVC	ᄆㅊㅏᆨ			FALSE	
+mcʰ	o			p̚	NCVC	ᄆㅊㅗᆸ			FALSE	
+mcʰ	o			t̚	NCVC	ᄆㅊㅗᆮ			FALSE	
+mcʰ	o			k̚	NCVC	ᄆㅊㅗᆨ			FALSE	
+mcʰ	u			p̚	NCVC	ᄆㅊㅜᆸ			FALSE	
+mcʰ	u			t̚	NCVC	ᄆㅊㅜᆮ			FALSE	
+mcʰ	u			k̚	NCVC	ᄆㅊㅜᆨ			FALSE	
+ncʰ	i			p̚	NCVC	ᄂㅊㅣᆸ			FALSE	
+ncʰ	i			t̚	NCVC	ᄂㅊㅣᆮ			FALSE	
+ncʰ	i			k̚	NCVC	ᄂㅊㅣᆨ			FALSE	
+ncʰ	a			p̚	NCVC	ᄂㅊㅏᆸ			FALSE	
+ncʰ	a			t̚	NCVC	ᄂㅊㅏᆮ			FALSE	
+ncʰ	a			k̚	NCVC	ᄂㅊㅏᆨ			FALSE	
+ncʰ	o			p̚	NCVC	ᄂㅊㅗᆸ			FALSE	
+ncʰ	o			t̚	NCVC	ᄂㅊㅗᆮ			FALSE	
+ncʰ	o			k̚	NCVC	ᄂㅊㅗᆨ			FALSE	
+ncʰ	u			p̚	NCVC	ᄂㅊㅜᆸ			FALSE	
+ncʰ	u			t̚	NCVC	ᄂㅊㅜᆮ			FALSE	
+ncʰ	u			k̚	NCVC	ᄂㅊㅜᆨ			FALSE	
+mkʰ	i			p̚	NCVC	ᄆㅋㅣᆸ			FALSE	
+mkʰ	i			t̚	NCVC	ᄆㅋㅣᆮ			FALSE	
+mkʰ	a			p̚	NCVC	ᄆㅋㅏᆸ			FALSE	
+mkʰ	a			t̚	NCVC	ᄆㅋㅏᆮ			FALSE	
+mkʰ	o			p̚	NCVC	ᄆㅋㅗᆸ			FALSE	
+mkʰ	o			t̚	NCVC	ᄆㅋㅗᆮ			FALSE	
+mkʰ	u			p̚	NCVC	ᄆㅋㅜᆸ			FALSE	
+mkʰ	u			t̚	NCVC	ᄆㅋㅜᆮ			FALSE	
+nkʰ	i			p̚	NCVC	ᄂㅋㅣᆸ			FALSE	
+nkʰ	i			t̚	NCVC	ᄂㅋㅣᆮ			FALSE	
+nkʰ	a			p̚	NCVC	ᄂㅋㅏᆸ			FALSE	
+nkʰ	a			t̚	NCVC	ᄂㅋㅏᆮ			FALSE	
+nkʰ	o			p̚	NCVC	ᄂㅋㅗᆸ			FALSE	
+nkʰ	o			t̚	NCVC	ᄂㅋㅗᆮ			FALSE	
+nkʰ	u			p̚	NCVC	ᄂㅋㅜᆸ			FALSE	
+nkʰ	u			t̚	NCVC	ᄂㅋㅜᆮ			FALSE	
+pm	i			t̚	CNVC	ㅂᄆㅣᆮ			FALSE	
+pm	i			k̚	CNVC	ㅂᄆㅣᆨ			FALSE	
+pm	a			t̚	CNVC	ㅂᄆㅏᆮ			FALSE	
+pm	a			k̚	CNVC	ㅂᄆㅏᆨ			FALSE	
+pm	o			t̚	CNVC	ㅂᄆㅗᆮ			FALSE	
+pm	o			k̚	CNVC	ㅂᄆㅗᆨ			FALSE	
+pm	u			t̚	CNVC	ㅂᄆㅜᆮ			FALSE	
+pm	u			k̚	CNVC	ㅂᄆㅜᆨ			FALSE	
+pn	i			t̚	CNVC	ㅂᄂㅣᆮ			FALSE	
+pn	i			k̚	CNVC	ㅂᄂㅣᆨ			FALSE	
+pn	a			t̚	CNVC	ㅂᄂㅏᆮ			FALSE	
+pn	a			k̚	CNVC	ㅂᄂㅏᆨ			FALSE	
+pn	o			t̚	CNVC	ㅂᄂㅗᆮ			FALSE	
+pn	o			k̚	CNVC	ㅂᄂㅗᆨ			FALSE	
+pn	u			t̚	CNVC	ㅂᄂㅜᆮ			FALSE	
+pn	u			k̚	CNVC	ㅂᄂㅜᆨ			FALSE	
+tm	i			p̚	CNVC	ㄷᄆㅣᆸ			FALSE	
+tm	i			k̚	CNVC	ㄷᄆㅣᆨ			FALSE	
+tm	a			p̚	CNVC	ㄷᄆㅏᆸ			FALSE	
+tm	a			k̚	CNVC	ㄷᄆㅏᆨ			FALSE	
+tm	o			p̚	CNVC	ㄷᄆㅗᆸ			FALSE	
+tm	o			k̚	CNVC	ㄷᄆㅗᆨ			FALSE	
+tm	u			p̚	CNVC	ㄷᄆㅜᆸ			FALSE	
+tm	u			k̚	CNVC	ㄷᄆㅜᆨ			FALSE	
+tn	i			p̚	CNVC	ㄷᄂㅣᆸ			FALSE	
+tn	i			k̚	CNVC	ㄷᄂㅣᆨ			FALSE	
+tn	a			p̚	CNVC	ㄷᄂㅏᆸ			FALSE	
+tn	a			k̚	CNVC	ㄷᄂㅏᆨ			FALSE	
+tn	o			p̚	CNVC	ㄷᄂㅗᆸ			FALSE	
+tn	o			k̚	CNVC	ㄷᄂㅗᆨ			FALSE	
+tn	u			p̚	CNVC	ㄷᄂㅜᆸ			FALSE	
+tn	u			k̚	CNVC	ㄷᄂㅜᆨ			FALSE	
+cm	i			p̚	CNVC	ㅈᄆㅣᆸ			FALSE	
+cm	i			t̚	CNVC	ㅈᄆㅣᆮ			FALSE	
+cm	i			k̚	CNVC	ㅈᄆㅣᆨ			FALSE	
+cm	a			p̚	CNVC	ㅈᄆㅏᆸ			FALSE	
+cm	a			t̚	CNVC	ㅈᄆㅏᆮ			FALSE	
+cm	a			k̚	CNVC	ㅈᄆㅏᆨ			FALSE	
+cm	o			p̚	CNVC	ㅈᄆㅗᆸ			FALSE	
+cm	o			t̚	CNVC	ㅈᄆㅗᆮ			FALSE	
+cm	o			k̚	CNVC	ㅈᄆㅗᆨ			FALSE	
+cm	u			p̚	CNVC	ㅈᄆㅜᆸ			FALSE	
+cm	u			t̚	CNVC	ㅈᄆㅜᆮ			FALSE	
+cm	u			k̚	CNVC	ㅈᄆㅜᆨ			FALSE	
+cn	i			p̚	CNVC	ㅈᄂㅣᆸ			FALSE	
+cn	i			t̚	CNVC	ㅈᄂㅣᆮ			FALSE	
+cn	i			k̚	CNVC	ㅈᄂㅣᆨ			FALSE	
+cn	a			p̚	CNVC	ㅈᄂㅏᆸ			FALSE	
+cn	a			t̚	CNVC	ㅈᄂㅏᆮ			FALSE	
+cn	a			k̚	CNVC	ㅈᄂㅏᆨ			FALSE	
+cn	o			p̚	CNVC	ㅈᄂㅗᆸ			FALSE	
+cn	o			t̚	CNVC	ㅈᄂㅗᆮ			FALSE	
+cn	o			k̚	CNVC	ㅈᄂㅗᆨ			FALSE	
+cn	u			p̚	CNVC	ㅈᄂㅜᆸ			FALSE	
+cn	u			t̚	CNVC	ㅈᄂㅜᆮ			FALSE	
+cn	u			k̚	CNVC	ㅈᄂㅜᆨ			FALSE	
+km	i			p̚	CNVC	ㄱᄆㅣᆸ			FALSE	
+km	i			t̚	CNVC	ㄱᄆㅣᆮ			FALSE	
+km	a			p̚	CNVC	ㄱᄆㅏᆸ			FALSE	
+km	a			t̚	CNVC	ㄱᄆㅏᆮ			FALSE	
+km	o			p̚	CNVC	ㄱᄆㅗᆸ			FALSE	
+km	o			t̚	CNVC	ㄱᄆㅗᆮ			FALSE	
+km	u			p̚	CNVC	ㄱᄆㅜᆸ			FALSE	
+km	u			t̚	CNVC	ㄱᄆㅜᆮ			FALSE	
+kn	i			p̚	CNVC	ㄱᄂㅣᆸ			FALSE	
+kn	i			t̚	CNVC	ㄱᄂㅣᆮ			FALSE	
+kn	a			p̚	CNVC	ㄱᄂㅏᆸ			FALSE	
+kn	a			t̚	CNVC	ㄱᄂㅏᆮ			FALSE	
+kn	o			p̚	CNVC	ㄱᄂㅗᆸ			FALSE	
+kn	o			t̚	CNVC	ㄱᄂㅗᆮ			FALSE	
+kn	u			p̚	CNVC	ㄱᄂㅜᆸ			FALSE	
+kn	u			t̚	CNVC	ㄱᄂㅜᆮ			FALSE	
+pʰm	i			t̚	CNVC	ㅍᄆㅣᆮ			FALSE	
+pʰm	i			k̚	CNVC	ㅍᄆㅣᆨ			FALSE	
+pʰm	a			t̚	CNVC	ㅍᄆㅏᆮ			FALSE	
+pʰm	a			k̚	CNVC	ㅍᄆㅏᆨ			FALSE	
+pʰm	o			t̚	CNVC	ㅍᄆㅗᆮ			FALSE	
+pʰm	o			k̚	CNVC	ㅍᄆㅗᆨ			FALSE	
+pʰm	u			t̚	CNVC	ㅍᄆㅜᆮ			FALSE	
+pʰm	u			k̚	CNVC	ㅍᄆㅜᆨ			FALSE	
+pʰn	i			t̚	CNVC	ㅍᄂㅣᆮ			FALSE	
+pʰn	i			k̚	CNVC	ㅍᄂㅣᆨ			FALSE	
+pʰn	a			t̚	CNVC	ㅍᄂㅏᆮ			FALSE	
+pʰn	a			k̚	CNVC	ㅍᄂㅏᆨ			FALSE	
+pʰn	o			t̚	CNVC	ㅍᄂㅗᆮ			FALSE	
+pʰn	o			k̚	CNVC	ㅍᄂㅗᆨ			FALSE	
+pʰn	u			t̚	CNVC	ㅍᄂㅜᆮ			FALSE	
+pʰn	u			k̚	CNVC	ㅍᄂㅜᆨ			FALSE	
+tʰm	i			p̚	CNVC	ㅌᄆㅣᆸ			FALSE	
+tʰm	i			k̚	CNVC	ㅌᄆㅣᆨ			FALSE	
+tʰm	a			p̚	CNVC	ㅌᄆㅏᆸ			FALSE	
+tʰm	a			k̚	CNVC	ㅌᄆㅏᆨ			FALSE	
+tʰm	o			p̚	CNVC	ㅌᄆㅗᆸ			FALSE	
+tʰm	o			k̚	CNVC	ㅌᄆㅗᆨ			FALSE	
+tʰm	u			p̚	CNVC	ㅌᄆㅜᆸ			FALSE	
+tʰm	u			k̚	CNVC	ㅌᄆㅜᆨ			FALSE	
+tʰn	i			p̚	CNVC	ㅌᄂㅣᆸ			FALSE	
+tʰn	i			k̚	CNVC	ㅌᄂㅣᆨ			FALSE	
+tʰn	a			p̚	CNVC	ㅌᄂㅏᆸ			FALSE	
+tʰn	a			k̚	CNVC	ㅌᄂㅏᆨ			FALSE	
+tʰn	o			p̚	CNVC	ㅌᄂㅗᆸ			FALSE	
+tʰn	o			k̚	CNVC	ㅌᄂㅗᆨ			FALSE	
+tʰn	u			p̚	CNVC	ㅌᄂㅜᆸ			FALSE	
+tʰn	u			k̚	CNVC	ㅌᄂㅜᆨ			FALSE	
+cʰm	i			p̚	CNVC	ㅊᄆㅣᆸ			FALSE	
+cʰm	i			t̚	CNVC	ㅊᄆㅣᆮ			FALSE	
+cʰm	i			k̚	CNVC	ㅊᄆㅣᆨ			FALSE	
+cʰm	a			p̚	CNVC	ㅊᄆㅏᆸ			FALSE	
+cʰm	a			t̚	CNVC	ㅊᄆㅏᆮ			FALSE	
+cʰm	a			k̚	CNVC	ㅊᄆㅏᆨ			FALSE	
+cʰm	o			p̚	CNVC	ㅊᄆㅗᆸ			FALSE	
+cʰm	o			t̚	CNVC	ㅊᄆㅗᆮ			FALSE	
+cʰm	o			k̚	CNVC	ㅊᄆㅗᆨ			FALSE	
+cʰm	u			p̚	CNVC	ㅊᄆㅜᆸ			FALSE	
+cʰm	u			t̚	CNVC	ㅊᄆㅜᆮ			FALSE	
+cʰm	u			k̚	CNVC	ㅊᄆㅜᆨ			FALSE	
+cʰn	i			p̚	CNVC	ㅊᄂㅣᆸ			FALSE	
+cʰn	i			t̚	CNVC	ㅊᄂㅣᆮ			FALSE	
+cʰn	i			k̚	CNVC	ㅊᄂㅣᆨ			FALSE	
+cʰn	a			p̚	CNVC	ㅊᄂㅏᆸ			FALSE	
+cʰn	a			t̚	CNVC	ㅊᄂㅏᆮ			FALSE	
+cʰn	a			k̚	CNVC	ㅊᄂㅏᆨ			FALSE	
+cʰn	o			p̚	CNVC	ㅊᄂㅗᆸ			FALSE	
+cʰn	o			t̚	CNVC	ㅊᄂㅗᆮ			FALSE	
+cʰn	o			k̚	CNVC	ㅊᄂㅗᆨ			FALSE	
+cʰn	u			p̚	CNVC	ㅊᄂㅜᆸ			FALSE	
+cʰn	u			t̚	CNVC	ㅊᄂㅜᆮ			FALSE	
+cʰn	u			k̚	CNVC	ㅊᄂㅜᆨ			FALSE	
+kʰm	i			p̚	CNVC	ㅋᄆㅣᆸ			FALSE	
+kʰm	i			t̚	CNVC	ㅋᄆㅣᆮ			FALSE	
+kʰm	a			p̚	CNVC	ㅋᄆㅏᆸ			FALSE	
+kʰm	a			t̚	CNVC	ㅋᄆㅏᆮ			FALSE	
+kʰm	o			p̚	CNVC	ㅋᄆㅗᆸ			FALSE	
+kʰm	o			t̚	CNVC	ㅋᄆㅗᆮ			FALSE	
+kʰm	u			p̚	CNVC	ㅋᄆㅜᆸ			FALSE	
+kʰm	u			t̚	CNVC	ㅋᄆㅜᆮ			FALSE	
+kʰn	i			p̚	CNVC	ㅋᄂㅣᆸ			FALSE	
+kʰn	i			t̚	CNVC	ㅋᄂㅣᆮ			FALSE	
+kʰn	a			p̚	CNVC	ㅋᄂㅏᆸ			FALSE	
+kʰn	a			t̚	CNVC	ㅋᄂㅏᆮ			FALSE	
+kʰn	o			p̚	CNVC	ㅋᄂㅗᆸ			FALSE	
+kʰn	o			t̚	CNVC	ㅋᄂㅗᆮ			FALSE	
+kʰn	u			p̚	CNVC	ㅋᄂㅜᆸ			FALSE	
+kʰn	u			t̚	CNVC	ㅋᄂㅜᆮ			FALSE	
