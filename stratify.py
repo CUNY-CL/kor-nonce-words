@@ -50,7 +50,7 @@ def main() -> None:
         if shape in ["CVC", "CwVC", "CNVC", "NCVC"]:
             size = 5
         else:
-            size = 15
+            size = 10
         assert len(elist) >= size * 2, (shape, len(elist))
         random.shuffle(elist)
         list1.extend(elist[:size])
