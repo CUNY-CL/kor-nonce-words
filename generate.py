@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""First attempt at Korean stimulus generation.
+"""First-pass Korean stimulus generation.
 
 This simply generates potential stimuli and codes their basic properties.
 Subsequent steps will remove actual lexical items and balance the stimuli
