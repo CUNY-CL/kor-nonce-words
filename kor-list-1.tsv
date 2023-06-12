@@ -1,61 +1,61 @@
 onset1	nucleus1	onset2	nucleus2	coda	shape	jamo	hangul	romanization	transcription
-pʰ	wi			ŋ	CwVC	ㅍㅟᆼ	퓡	pwing	pʰwiŋ
-c	wi	n	i	k̚	CwVCVC	ㅈㅟᄂㅣᆨ	쥐닉	jwinik	cwinik̚
-k	wi	t	a	k̚	CwVCVC	ㄱㅟㄷㅏᆨ	귀닥	gwidak	kwitak̚
-cʰm	a	t	u	ŋ	CNVCVC	ㅊᄆㅏㄷㅜᆼ			cʰmatuŋ
-pʰ	wi	c	a	ŋ	CwVCVC	ㅍㅟㅈㅏᆼ	퓌장	pwijang	pʰwicaŋ
-ncʰ	i	c	a	m	NCVCVC	ᄂㅊㅣㅈㅏᆷ			ncʰicam
-mtʰ	i	s	o	p̚	NCVCVC	ᄆㅌㅣᄉㅗᆸ			mtʰisop̚
-cʰn	o	s	u	k̚	CNVCVC	ㅊᄂㅗᄉㅜᆨ			cʰnosuk̚
-t	o	n	i	k̚	CVCVC	ㄷㅗᄂㅣᆨ	도닉	donik	tonik̚
-t	wi	k	i	n	CwVCVC	ㄷㅟㄱㅣᆫ	뒤긴	dwigin	twikin
+s	wi	c	i	t̚	CwVCVC	ᄉㅟㅈㅣᆮ	쉬짇	swijit	swicit̚
+ntʰ	o	cʰ	a	p̚	NCVCVC	ᄂㅌㅗㅊㅏᆸ			ntʰocʰap̚
+kʰn	a	c	i	n	CNVCVC	ㅋᄂㅏㅈㅣᆫ			kʰnacin
+s	wa	p	o	ŋ	CwVCVC	ᄉㅘㅂㅗᆼ	솨봉	swabong	swapoŋ
+cʰ	wa	k	a	p̚	CwVCVC	ㅊㅘㄱㅏᆸ	촤갑	chwagap	cʰwakap̚
+pm	a	tʰ	i	n	CNVCVC	ㅂᄆㅏㅌㅣᆫ			pmatʰin
+mpʰ	i	tʰ	u	p̚	NCVCVC	ᄆㅍㅣㅌㅜᆸ			mpʰitʰup̚
 c	u			t̚	CVC	ㅈㅜᆮ	줃	jut	cut̚
-np	o	s	i	ŋ	NCVCVC	ᄂㅂㅗᄉㅣᆼ			nposiŋ
-k	wi	pʰ	o	t̚	CwVCVC	ㄱㅟㅍㅗᆮ	귀폳	gwipot	kwipʰot̚
-n	wa	c	i	t̚	CwVCVC	ᄂㅘㅈㅣᆮ	놔짇	nwajit	nwacit̚
-c	wa			ŋ	CwVC	ㅈㅘᆼ	좡	jwang	cwaŋ
-tʰm	u	t	i	p̚	CNVCVC	ㅌᄆㅜㄷㅣᆸ			tʰmutip̚
-cʰ	wa	n	u	p̚	CwVCVC	ㅊㅘᄂㅜᆸ	촤눕	chwanup	cʰwanup̚
-mt	a			k̚	NCVC	ᄆㄷㅏᆨ			mtak̚
-mc	a	s	u	m	NCVCVC	ᄆㅈㅏᄉㅜᆷ			mcasum
-nc	u			k̚	NCVC	ᄂㅈㅜᆨ			ncuk̚
-mp	u	t	i	ŋ	NCVCVC	ᄆㅂㅜㄷㅣᆼ			mputiŋ
-m	i			p̚	CVC	ᄆㅣᆸ	밉	mip	mip̚
-pm	u			k̚	CNVC	ㅂᄆㅜᆨ			pmuk̚
-kn	o			p̚	CNVC	ㄱᄂㅗᆸ			knop̚
-t	i	p	a	k̚	CVCVC	ㄷㅣㅂㅏᆨ	디박	dibak	tipak̚
-ncʰ	a			k̚	NCVC	ᄂㅊㅏᆨ			ncʰak̚
-cʰ	wi	s	a	ŋ	CwVCVC	ㅊㅟᄉㅏᆼ	취상	chwisang	cʰwisaŋ
-n	a	pʰ	o	k̚	CVCVC	ᄂㅏㅍㅗᆨ	나폭	napok	napʰok̚
-cʰ	u			t̚	CVC	ㅊㅜᆮ	춛	chut	cʰut̚
-pʰm	u	p	o	t̚	CNVCVC	ㅍᄆㅜㅂㅗᆮ			pʰmupot̚
-pʰn	u	c	o	k̚	CNVCVC	ㅍᄂㅜㅈㅗᆨ			pʰnucok̚
-s	a	pʰ	i	k̚	CVCVC	ᄉㅏㅍㅣᆨ	사픽	sapik	sapʰik̚
-mcʰ	i	c	o	p̚	NCVCVC	ᄆㅊㅣㅈㅗᆸ			mcʰicop̚
-cm	u	t	a	m	CNVCVC	ㅈᄆㅜㄷㅏᆷ			cmutam
+s	i	pʰ	u	k̚	CVCVC	ᄉㅣㅍㅜᆨ	시푹	sipuk	sipʰuk̚
+s	u	t	i	k̚	CVCVC	ᄉㅜㄷㅣᆨ	수딕	sudik	sutik̚
+pʰn	i	n	o	t̚	CNVCVC	ㅍᄂㅣᄂㅗᆮ			pʰninot̚
+kʰm	o	t	i	ŋ	CNVCVC	ㅋᄆㅗㄷㅣᆼ			kʰmotiŋ
+s	wa	kʰ	i	ŋ	CwVCVC	ᄉㅘㅋㅣᆼ	솨킹	swaking	swakʰiŋ
+mk	i	tʰ	u	n	NCVCVC	ᄆㄱㅣㅌㅜᆫ			mkitʰun
 pʰm	u			t̚	CNVC	ㅍᄆㅜᆮ			pʰmut̚
-ncʰ	u			p̚	NCVC	ᄂㅊㅜᆸ			ncʰup̚
+tʰ	wi	c	a	p̚	CwVCVC	ㅌㅟㅈㅏᆸ	튀잡	twijap	tʰwicap̚
+p	a	tʰ	i	k̚	CVCVC	ㅂㅏㅌㅣᆨ	바틱	batik	patʰik̚
+c	wa	s	o	p̚	CwVCVC	ㅈㅘᄉㅗᆸ	좌솝	jwasop	cwasop̚
 cm	o			t̚	CNVC	ㅈᄆㅗᆮ			cmot̚
-kʰ	u			n	CVC	ㅋㅜᆫ	쿤	kun	kʰun
-ncʰ	a			t̚	NCVC	ᄂㅊㅏᆮ			ncʰat̚
-pʰ	wi			m	CwVC	ㅍㅟᆷ	퓜	pwim	pʰwim
-nkʰ	u	pʰ	i	m	NCVCVC	ᄂㅋㅜㅍㅣᆷ			nkʰupʰim
-s	o	cʰ	u	k̚	CVCVC	ᄉㅗㅊㅜᆨ	소축	sochuk	socʰuk̚
-k	wa			t̚	CwVC	ㄱㅘᆮ	괃	gwat	kwat̚
-n	u	k	i	t̚	CVCVC	ᄂㅜㄱㅣᆮ	누긷	nugit	nukit̚
-pʰ	a	k	i	t̚	CVCVC	ㅍㅏㄱㅣᆮ	파긷	pagit	pʰakit̚
-cʰ	wi	pʰ	i	m	CwVCVC	ㅊㅟㅍㅣᆷ	취핌	chwipim	cʰwipʰim
-kʰm	i	p	a	ŋ	CNVCVC	ㅋᄆㅣㅂㅏᆼ			kʰmipaŋ
-tʰ	a	p	i	k̚	CVCVC	ㅌㅏㅂㅣᆨ	타빅	tabik	tʰapik̚
-kʰn	i	pʰ	o	n	CNVCVC	ㅋᄂㅣㅍㅗᆫ			kʰnipʰon
-k	wa	m	o	p̚	CwVCVC	ㄱㅘᄆㅗᆸ	과몹	gwamop	kwamop̚
-k	u	cʰ	o	k̚	CVCVC	ㄱㅜㅊㅗᆨ	구촉	guchok	kucʰok̚
-mcʰ	a	s	u	t̚	NCVCVC	ᄆㅊㅏᄉㅜᆮ			mcʰasut̚
-npʰ	a	kʰ	i	n	NCVCVC	ᄂㅍㅏㅋㅣᆫ			npʰakʰin
-cʰ	wa			p̚	CwVC	ㅊㅘᆸ	촵	chwap	cʰwap̚
+pʰ	wi			ŋ	CwVC	ㅍㅟᆼ	퓡	pwing	pʰwiŋ
 tʰ	u			m	CVC	ㅌㅜᆷ	툼	tum	tʰum
-kn	o	n	u	p̚	CNVCVC	ㄱᄂㅗᄂㅜᆸ			knonup̚
-mk	i	s	a	p̚	NCVCVC	ᄆㄱㅣᄉㅏᆸ			mkisap̚
+cʰ	wa			p̚	CwVC	ㅊㅘᆸ	촵	chwap	cʰwap̚
+t	a	kʰ	u	t̚	CVCVC	ㄷㅏㅋㅜᆮ	다쿧	dakut	takʰut̚
+tʰn	a	k	o	p̚	CNVCVC	ㅌᄂㅏㄱㅗᆸ			tʰnakop̚
+ntʰ	i	t	o	n	NCVCVC	ᄂㅌㅣㄷㅗᆫ			ntʰiton
+kn	o	tʰ	i	ŋ	CNVCVC	ㄱᄂㅗㅌㅣᆼ			knotʰiŋ
+c	wi	pʰ	i	ŋ	CwVCVC	ㅈㅟㅍㅣᆼ	쥐핑	jwiping	cwipʰiŋ
 kʰm	i			p̚	CNVC	ㅋᄆㅣᆸ			kʰmip̚
-pm	a	s	i	ŋ	CNVCVC	ㅂᄆㅏᄉㅣᆼ			pmasiŋ
-p	u	cʰ	i	k̚	CVCVC	ㅂㅜㅊㅣᆨ	부칙	buchik	pucʰik̚
+pʰm	a	c	o	t̚	CNVCVC	ㅍᄆㅏㅈㅗᆮ			pʰmacot̚
+pm	u			k̚	CNVC	ㅂᄆㅜᆨ			pmuk̚
+k	o	pʰ	a	k̚	CVCVC	ㄱㅗㅍㅏᆨ	고팍	gopak	kopʰak̚
+t	wi	kʰ	i	t̚	CwVCVC	ㄷㅟㅋㅣᆮ	뒤킫	dwikit	twikʰit̚
+ncʰ	a			t̚	NCVC	ᄂㅊㅏᆮ			ncʰat̚
+kʰ	o	n	i	k̚	CVCVC	ㅋㅗᄂㅣᆨ	코닉	konik	kʰonik̚
+ncʰ	u			p̚	NCVC	ᄂㅊㅜᆸ			ncʰup̚
+mt	a			k̚	NCVC	ᄆㄷㅏᆨ			mtak̚
+mc	i	pʰ	o	m	NCVCVC	ᄆㅈㅣㅍㅗᆷ			mcipʰom
+nt	o	s	i	n	NCVCVC	ᄂㄷㅗᄉㅣᆫ			ntosin
+kʰ	wa	p	a	n	CwVCVC	ㅋㅘㅂㅏᆫ	콰반	kwaban	kʰwapan
+nc	u			k̚	NCVC	ᄂㅈㅜᆨ			ncuk̚
+kn	o			p̚	CNVC	ㄱᄂㅗᆸ			knop̚
+np	o	k	i	t̚	NCVCVC	ᄂㅂㅗㄱㅣᆮ			npokit̚
+tʰn	u	k	i	p̚	CNVCVC	ㅌᄂㅜㄱㅣᆸ			tʰnukip̚
+c	wa			ŋ	CwVC	ㅈㅘᆼ	좡	jwang	cwaŋ
+kʰn	i	cʰ	a	t̚	CNVCVC	ㅋᄂㅣㅊㅏᆮ			kʰnicʰat̚
+p	wa	c	u	ŋ	CwVCVC	ㅂㅘㅈㅜᆼ	봐중	bwajung	pwacuŋ
+ncʰ	a			k̚	NCVC	ᄂㅊㅏᆨ			ncʰak̚
+n	i	pʰ	a	k̚	CVCVC	ᄂㅣㅍㅏᆨ	니팍	nipak	nipʰak̚
+pʰ	wi			m	CwVC	ㅍㅟᆷ	퓜	pwim	pʰwim
+cʰ	u			t̚	CVC	ㅊㅜᆮ	춛	chut	cʰut̚
+mt	u	n	a	k̚	NCVCVC	ᄆㄷㅜᄂㅏᆨ			mtunak̚
+n	u	c	o	k̚	CVCVC	ᄂㅜㅈㅗᆨ	누족	nujok	nucok̚
+k	wa			t̚	CwVC	ㄱㅘᆮ	괃	gwat	kwat̚
+m	a	s	u	k̚	CVCVC	ᄆㅏᄉㅜᆨ	마숙	masuk	masuk̚
+m	i			p̚	CVC	ᄆㅣᆸ	밉	mip	mip̚
+pm	i	s	u	ŋ	CNVCVC	ㅂᄆㅣᄉㅜᆼ			pmisuŋ
+pʰ	u	tʰ	i	k̚	CVCVC	ㅍㅜㅌㅣᆨ	푸틱	putik	pʰutʰik̚
+ntʰ	u	n	i	t̚	NCVCVC	ᄂㅌㅜᄂㅣᆮ			ntʰunit̚
+kʰ	u			n	CVC	ㅋㅜᆫ	쿤	kun	kʰun
+ncʰ	i	t	a	m	NCVCVC	ᄂㅊㅣㄷㅏᆷ			ncʰitam

@@ -27,12 +27,18 @@ LIST2 = "kor-list-2.tsv"
 def _proc_file(path: str) -> Iterator[Tuple[str, Any]]:
     with open(path, "r") as source:
         for row in csv.DictReader(source, delimiter="\t"):
-            if row["lexicality"] == "TRUE":
+            if row["lexicality"] != "FALSE":
                 continue
             del row["lexicality"]
             del row["memo"]
             shape = row["shape"]
-            row["transcription"] = row["onset1"] + row["nucleus1"] + row["onset2"] + row["nucleus2"] + row["coda"]
+            row["transcription"] = (
+                row["onset1"]
+                + row["nucleus1"]
+                + row["onset2"]
+                + row["nucleus2"]
+                + row["coda"]
+            )
             yield shape, row
 
 
@@ -55,7 +61,7 @@ def main() -> None:
         assert len(elist) >= size * 2, (shape, len(elist))
         random.shuffle(elist)
         list1.extend(elist[:size])
-        list2.extend(elist[size:2*size])
+        list2.extend(elist[size : 2 * size])
     random.shuffle(list1)
     random.shuffle(list2)
     with open(LIST1, "w") as sink:
