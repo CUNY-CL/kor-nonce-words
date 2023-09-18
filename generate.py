@@ -36,7 +36,7 @@ STOP_CODAS = ["p̚", "t̚", "k̚"]
 CODAS = NASAL_CODAS + STOP_CODAS
 
 MONOSYLLABLES = "monosyllables.tsv"
-DISYLLABLES = "disyllables.tsv"
+DISYLLABLES = "bisyllables.tsv"
 LEXICON = "kor_hang_narrow.tsv"
 
 HANGUL_ONSET = {
@@ -202,7 +202,7 @@ def _monosyllables() -> Iterator[Monosyllable]:
                     yield Monosyllable(onset, vowel, coda, "CNVC")
 
 
-def _disyllables() -> Iterator[Bisyllable]:
+def _bisyllables() -> Iterator[Bisyllable]:
     # The checks on coda inoculate us against things like /mpip̚/.
     # We avoid similar onsets or vowels in back-to-back syllables too.
     # Plain.
@@ -274,7 +274,7 @@ def main():
         )
         for entry in _monosyllables():
             tsv_writer.writerow(entry.line)
-    # This probably could be cleverer and focus just on disyllables.
+    # This probably could be cleverer and focus just on bisyllables.
     lexicon: Set[str] = set()
     with open(LEXICON, "r") as source:
         tsv_reader = csv.reader(source, delimiter="\t")
@@ -300,7 +300,7 @@ def main():
             ]
         )
         filtered = 0
-        for entry in _disyllables():
+        for entry in _bisyllables():
             # Filters based on the lexicon.
             if entry.romanization and entry.romanization in lexicon:
                 logging.info(
@@ -309,7 +309,7 @@ def main():
                 filtered += 1
                 continue
             tsv_writer.writerow(entry.line)
-    logging.info(f"{filtered:,} disyllables filtered")
+    logging.info(f"{filtered:,} bisyllables filtered")
 
 
 if __name__ == "__main__":

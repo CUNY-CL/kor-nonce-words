@@ -4,7 +4,7 @@
 This produces two lists of 80 words with the same gross properties. For each
 list:
 
-* 20 of the words are monosyllables; 80 are disyllables.
+* 20 of the words are monosyllables; 80 are bisyllables.
 * 40 the words are expected to be well-formed; 40 of the words are expected
   to be ill-formed.
 """
@@ -19,7 +19,7 @@ from typing import Any, Dict, Iterator, Tuple
 
 SEED = 1568
 MONOSYLLABLES = "monosyllables-annotated.tsv"
-DISYLLABLES = "disyllables-annotated.tsv"
+DISYLLABLES = "bisyllables-annotated.tsv"
 LIST1 = "kor-list-1.tsv"
 LIST2 = "kor-list-2.tsv"
 
