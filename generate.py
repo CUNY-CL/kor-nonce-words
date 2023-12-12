@@ -36,7 +36,7 @@ STOP_CODAS = ["p̚", "t̚", "k̚"]
 CODAS = NASAL_CODAS + STOP_CODAS
 
 MONOSYLLABLES = "monosyllables.tsv"
-DISYLLABLES = "bisyllables.tsv"
+DISYLLABLES = "disyllables.tsv"
 LEXICON = "kor_hang_narrow.tsv"
 
 HANGUL_ONSET = {
@@ -129,7 +129,7 @@ class Monosyllable:
 
 
 @dataclasses.dataclass
-class Bisyllable:
+class Disyllable:
     syl1: Monosyllable
     syl2: Monosyllable
     shape: str
@@ -202,7 +202,7 @@ def _monosyllables() -> Iterator[Monosyllable]:
                     yield Monosyllable(onset, vowel, coda, "CNVC")
 
 
-def _bisyllables() -> Iterator[Bisyllable]:
+def _disyllables() -> Iterator[Disyllable]:
     # The checks on coda inoculate us against things like /mpip̚/.
     # We avoid similar onsets or vowels in back-to-back syllables too.
     # Plain.
@@ -215,7 +215,7 @@ def _bisyllables() -> Iterator[Bisyllable]:
                 if coda.startswith(onset2[0]):
                     continue
                 syl2 = Monosyllable(onset2, vowel2, coda, shape="CVC")
-            yield Bisyllable(syl1, syl2, "CVCVC")
+            yield Disyllable(syl1, syl2, "CVCVC")
     # Cw. I am treating this as part of the nucleus because that's how it's
     # spelled.
     for onset1, onset2 in itertools.permutations(SIMPLE_ONSETS, 2):
@@ -227,7 +227,7 @@ def _bisyllables() -> Iterator[Bisyllable]:
                 if coda.startswith(onset2[0]):
                     continue
                 syl2 = Monosyllable(onset2, vowel2, coda, shape="CVC")
-                yield Bisyllable(syl1, syl2, "CwVCVC")
+                yield Disyllable(syl1, syl2, "CwVCVC")
     # Prenasal.
     for stop in STOP_ONSETS:
         for nasal in NASAL_ONSETS:
@@ -241,7 +241,7 @@ def _bisyllables() -> Iterator[Bisyllable]:
                         if coda.startswith(onset2[0]):
                             continue
                         syl2 = Monosyllable(onset2, vowel2, coda, shape="CVC")
-                        yield Bisyllable(syl1, syl2, "NCVCVC")
+                        yield Disyllable(syl1, syl2, "NCVCVC")
     # Postnasal.
     for stop in STOP_ONSETS:
         for nasal in NASAL_ONSETS:
@@ -255,7 +255,7 @@ def _bisyllables() -> Iterator[Bisyllable]:
                         if coda.startswith(onset2[0]):
                             continue
                         syl2 = Monosyllable(onset2, vowel2, coda, shape="CVC")
-                        yield Bisyllable(syl1, syl2, "CNVCVC")
+                        yield Disyllable(syl1, syl2, "CNVCVC")
 
 
 def main():
@@ -274,7 +274,7 @@ def main():
         )
         for entry in _monosyllables():
             tsv_writer.writerow(entry.line)
-    # This probably could be cleverer and focus just on bisyllables.
+    # This probably could be cleverer and focus just on disyllables.
     lexicon: Set[str] = set()
     with open(LEXICON, "r") as source:
         tsv_reader = csv.reader(source, delimiter="\t")
@@ -300,7 +300,7 @@ def main():
             ]
         )
         filtered = 0
-        for entry in _bisyllables():
+        for entry in _disyllables():
             # Filters based on the lexicon.
             if entry.romanization and entry.romanization in lexicon:
                 logging.info(
@@ -309,7 +309,7 @@ def main():
                 filtered += 1
                 continue
             tsv_writer.writerow(entry.line)
-    logging.info(f"{filtered:,} bisyllables filtered")
+    logging.info(f"{filtered:,} disyllables filtered")
 
 
 if __name__ == "__main__":
