@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 """Implements stratified sampling for Korean.
 
-This produces two lists of 80 words with the same gross properties. For each
+This produces two lists of 30 words with the same gross properties. For each
 list:
 
-* 20 of the words are monosyllables; 80 are disyllables.
-* 40 the words are expected to be well-formed; 40 of the words are expected
+* 30 of the words are monosyllables; 30 are disyllables.
+* 30 the words are expected to be well-formed; 30 of the words are expected
   to be ill-formed.
 """
 
